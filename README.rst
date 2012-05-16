@@ -1,12 +1,12 @@
-PerLex Transliteration (Latin to Perso-Arabic)
+PerLex Transliterator (Latin to Perso-Arabic)
 ==============================================
 
-`perlex_trans` is a python module and command-line interface to convert the
-Persian text transliterated in Latin in PerLex Lexicon into Perso-Arabic
-script.
+A python module and command-line interface for PerLex Lexicon to convert
+Persian text from Latin transliteration to Perso-Arabic script.
 
-Links
+More on PerLex
 -----
-http://hal.inria.fr/inria-00521243/en
-https://gforge.inria.fr/frs/?group_id=482
+Read "A morphological lexicon for the Persian language" at http://hal.inria.fr/inria-00521243/en
+
+PerLex files are available for download at https://gforge.inria.fr/frs/?group_id=482
 
