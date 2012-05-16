@@ -1,0 +1,587 @@
+افسوس	ADV	100;Lemma;ADV;;cat=ADV;%default	# 9/15=0.6
+انشاْالله	ADV	100;Lemma;ADV;;cat=ADV;%default	# 58/59=0.98
+#انشأالله	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+اونجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/6=0.83
+بارها	ADV	100;Lemma;ADV;;cat=ADV;%default	# 34/159=0.21
+باز	ADV	120;Lemma;ADV;;cat=ADV;%default	# de nouveau (!= adjectif "ouvert")	# 265/622=0.42
+بازهم	ADV	100;Lemma;ADV;;cat=ADV;%default	# 35/35=1
+بدانجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+بدبختانه	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+بکرات	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+بیرون	ADV	120;Lemma;ADV;;cat=ADV;%default	# 121/441=0.27 ADJ aussi
+دااماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# 18/18=1
+دفعتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# 2/2=1
+دگرباره	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+دریغ	ADV	100;Lemma;ADV;;cat=ADV;%default	# 17/43=0.39
+دریغا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 6/6=1
+دوباره	ADV	120;Lemma;ADV;;cat=ADV;%default	# 188/227=0.82
+دوبارث	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+#دیگه	ADV	100;Lemma;ADV;;cat=ADV;%default	# 8/15=0.53 : familier (normalement "dygar")
+دیگار	ADV	100;Lemma;ADV;;cat=ADV;%default
+هی	ADV	120;Lemma;ADV;;cat=ADV;%default	# 6/22=0.27
+جلو	ADV	120;Lemma;ADV;;cat=ADV;%default	# 31/170=0.18
+کانجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/2=0.5
+کاش	ADV	100;Lemma;ADV;;cat=ADV;%default	# 14/16=0.87
+کنار	ADV	120;Lemma;ADV;;cat=ADV;%default	# 20/693=0.02
+کراراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+لطفاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# 18/18=1
+مجددا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 19/19=1
+مجدداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# 99/99=1
+مکرر	ADV	100;Lemma;ADV;;cat=ADV;%default	# 20/86=0.23
+مکرراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/5=1
+مرتب	ADV	120;Lemma;ADV;;cat=ADV;%default	# 17/61=0.27
+مرتباٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+متاسفانه	ADV	100;Lemma;ADV;;cat=ADV;%default	# 103/103=1
+متأسفانه	ADV	120;Lemma;ADV;;cat=ADV;%default	# 191/191=1
+نه	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1016/1301=0.78
+پایین	ADV	120;Lemma;ADV;;cat=ADV;%default	# 30/270=0.11
+پیوسته	ADV	120;Lemma;ADV;;cat=ADV;%default	# 37/119=0.31
+تنها	ADV	120;Lemma;ADV;;cat=ADV;%default	# 861/1308=0.65
+وای	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/27=0.03
+چه	ADV	120;Lemma;ADV;;cat=ADV;%default	# 355/1970=0.18
+چندباره	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/3=0.33
+شگفتا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+حیف	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/7=0.14
+یک یک	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/2=0.5
+یکی یکی	ADV	100;Lemma;ADV;;cat=ADV;%default	# 8/8=1
+ای کاش	ADV	100;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+این جا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 9/14=0.64
+ان شاْالله	ADV	100;Lemma;ADV;;cat=ADV;%default	# 35/35=1
+ان شأالله	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+از نو	ADV	100;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+بارها و بارها	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+باز هم	ADV	100;Lemma;ADV;;cat=ADV;%default	# 99/99=1
+به کرات	ADV	100;Lemma;ADV;;cat=ADV;%default	# 7/7=1
+به به به	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+به دفعات	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+دسته دسته	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/7=0.71
+همه جا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 3/4=0.75
+مع الاسف	ADV	100;Lemma;ADV;;cat=ADV;%default	# 6/7=0.85
+پی درپی	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/38=0.1
+پایین تر	ADV	100;Lemma;ADV;;cat=ADV;%default	# 2/41=0.04
+سه باره	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+تک تک	ADV	100;Lemma;ADV;;cat=ADV;%default	# 7/24=0.29
+آن جا	ADV	100;Lemma;ADV;;cat=ADV;%default	# 13/24=0.54
+چه عجب	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+
+چنان	ADV	120;Lemma;PRO;;cat=PRO;%default	#
+چنین	ADV	120;Lemma;PRO;;cat=PRO;%default	#
+آنچنان	ADV	100;Lemma;PRO;;cat=PRO;%default	#
+آنچنین	ADV	100;Lemma;PRO;;cat=PRO;%default	#
+همچنان	ADV	120;Lemma;PRO;;cat=PRO;%default	#
+همچنین	ADV	120;Lemma;PRO;;cat=PRO;%default	# fam emčyn
+چندین	ADV	100;Lemma;pri;;cat=pri;%default	# 4027	combien	Pronom interrogatif /Déterminant	#
+چندان	ADV	120;Lemma;pri;;cat=pri;%default	# combien
+
+اینجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# ici	171/303=0.56
+همینجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# ici-même
+آنجا	ADV	100;Lemma;ADV;;cat=ADV;%default	# là	179/361=0.49
+آنجای	ADV	100;Lemma;ADV;;cat=ADV;%default	# là-bas	# 1/1=1
+آنجایی	ADV	100;Lemma;ADV;;cat=ADV;%default	# de là-bas	# 4/14=0.28
+همانجا	ADV	120;Lemma;ADV;;cat=ADV;%default	# là-même	5/10=0.5
+آنوقت	ADV	100;Lemma;ADV;;cat=ADV;%default	# alors, et puis
+اینقدر	ADV	100;Lemma;ADV;;cat=ADV;%default	# autant, tant que ceci
+آنقدر	ADV	120;Lemma;ADV;;cat=ADV;%default	# autant, tant que cela
+اینطور	ADV	120;Lemma;ADV;;cat=ADV;%default	# ainsi, de cette manière-ci
+آنطور	ADV	100;Lemma;ADV;;cat=ADV;%default	# ainsi, de cette manière-là
+
+بیش	inv	120;Lemma;ADV;;cat=ADV;%default	# plus
+پیش	inv	120;Lemma;ADV;;cat=ADV;%default	# avant
+همچون	ADV	100;Lemma;ADV;;cat=ADV;%default	# wikipedia comme, tel que (formel)
+
+
+
+شاید	ADV	120;Lemma;ADV;;cat=ADV;%default	# perhaps
+امروز	ADV	120;Lemma;ADV;;cat=ADV;%default	# today
+اکنون	ADV	120;Lemma;ADV;;cat=ADV;%default	# now
+دیروز	ADV	120;Lemma;ADV;;cat=ADV;%default	# yesterday
+امسال	ADV	120;Lemma;ADV;;cat=ADV;%default	# This year
+شاید	ADV	120;Lemma;ADV;;cat=ADV;%default	# Perhaps
+چگونه	ADV	120;Lemma;ADV;;cat=ADV;%default	# How
+همواره	ADV	120;Lemma;ADV;;cat=ADV;%default	# Always
+کاملاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# Quite
+هرگز	ADV	120;Lemma;ADV;;cat=ADV;%default	# Never
+اینک	ADV	100;Lemma;ADV;;cat=ADV;%default	# Now
+اوایل	ADV	100;Lemma;ADV;;cat=ADV;%default	# Early
+امروزه	ADV	120;Lemma;ADV;;cat=ADV;%default	# Today
+چگونگی	ADV	100;Lemma;ADV;;cat=ADV;%default	# How
+اخیراٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# Recently
+فردا	ADV	120;Lemma;ADV;;cat=ADV;%default	# Tomorrow
+احتمالاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# Probably
+صرفاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# Only
+اوقات	ADV	100;Lemma;ADV;;cat=ADV;%default	# Often
+قبلاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# Already
+کاملا	ADV	100;Lemma;ADV;;cat=ADV;%default	# Quite
+بلافاصله	ADV	120;Lemma;ADV;;cat=ADV;%default	# Immediately
+تدریج	ADV	100;Lemma;ADV;;cat=ADV;%default	# Gradually
+حتماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# Sure
+żاهراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	# Apparently
+
+
+
+اصلاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	# No
+عمدتاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+عملاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+دقیقاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+نسبتاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+اصولاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+اساساٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+رسماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عموماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مسلماٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+غالباٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+مستقیماٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+فعلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+شدیداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+شخصاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اتفاقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+قاعدتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مشترکاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مطماناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+فوراٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+صراحتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عیناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+متعاقباٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+صریحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+لزوماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+انصافاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+الزاماٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+اکثراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تماماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تلویحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عمیقاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+سابقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+قانوناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+موقتاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+اصطلاحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+متقابلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+جداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+تدریجاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ذیلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ذاتاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+قویاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+فرضاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+مشخصاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+منحصراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عمداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+علناٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+ابداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+ضرورتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+قهراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+رأساٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+نتیجتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مضافاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مطلقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مؤکداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+گاهاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+توأماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تصریحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ترجیحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+سهواٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+قلباٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+نقداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ناچاراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مستقلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+منطقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+حضوراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+حقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اخلاقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اجمالاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تصادفاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+تفصیلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+شفاهاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عقلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مختصراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+متوالیاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+متفقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+جسماٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+جبراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عجالتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+فطرتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+دایماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اشتباهاٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+ابتداااٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+خلقتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+وحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+وجداناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+وبعداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تؤاماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تعمداٌ	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+تحقیقاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+طبیتعاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+تعبداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+روحاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+نżمیفتوراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+نفیاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ندرتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+متدرجاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مستمراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مصراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+منتاżراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+معناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+محتملاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مجاناٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+مفصلاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+حکماٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+لفاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+لاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+کتباٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+جزااٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+جسارتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+فرداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+#‌ثانیاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+#‌ثالثاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+بدواٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+باٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ایضاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اختصاراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اعتراضاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+احتیاطاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اکیداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اجباراٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+عادتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+اثباتاٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+ابتداٌ	ADV	100;Lemma;ADV;;cat=ADV;%default	#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+عالمانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+عاقبت___MTE	ADV	110;Lemma;R;;cat=R;%default
+عجولانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+علاوه براین___MTE	ADV	110;Lemma;R;;cat=R;%default
+عریان___MTE	ADV	110;Lemma;R;;cat=R;%default
+عقب___MTE	ADV	110;Lemma;R;;cat=R;%default
+عصر___MTE	ADV	110;Lemma;R;;cat=R;%default
+ابتدا___MTE	ADV	110;Lemma;R;;cat=R;%default
+الان___MTE	ADV	110;Lemma;R;;cat=R;%default
+البته___MTE	ADV	110;Lemma;R;;cat=R;%default
+اندکی___MTE	ADV	110;Lemma;R;;cat=R;%default
+انگار___MTE	ADV	110;Lemma;R;;cat=R;%default
+اغلب___MTE	ADV	110;Lemma;R;;cat=R;%default
+این قدر___MTE	ADV	110;Lemma;R;;cat=R;%default
+این طور___MTE	ADV	110;Lemma;R;;cat=R;%default
+اینچنین___MTE	ADV	110;Lemma;R;;cat=R;%default
+ازقرارمعلوم___MTE	ADV	110;Lemma;R;;cat=R;%default
+احمقانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+احتمالاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+اشتباه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بعداٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+بعضاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+با این حال___MTE	ADV	110;Lemma;R;;cat=R;%default
+بااین همه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بااین وجود___MTE	ADV	110;Lemma;R;;cat=R;%default
+بااین حال___MTE	ADV	110;Lemma;R;;cat=R;%default
+بالاخره___MTE	ADV	110;Lemma;R;;cat=R;%default
+بانزاکت___MTE	ADV	110;Lemma;R;;cat=R;%default
+باوجوداین___MTE	ADV	110;Lemma;R;;cat=R;%default
+بدان گونه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بدخط___MTE	ADV	110;Lemma;R;;cat=R;%default
+بدین ترتیب___MTE	ADV	110;Lemma;R;;cat=R;%default
+به علاوه___MTE	ADV	110;Lemma;R;;cat=R;%default
+به این ترتیب___MTE	ADV	110;Lemma;R;;cat=R;%default
+به این طریق___MTE	ADV	110;Lemma;R;;cat=R;%default
+به همین جهت___MTE	ADV	110;Lemma;R;;cat=R;%default
+به همین ترتیب___MTE	ADV	110;Lemma;R;;cat=R;%default
+به هرحال___MTE	ADV	110;Lemma;R;;cat=R;%default
+به هیچ وجه___MTE	ADV	110;Lemma;R;;cat=R;%default
+به ندرت___MTE	ADV	110;Lemma;R;;cat=R;%default
+به ویژه___MTE	ADV	110;Lemma;R;;cat=R;%default
+به طورکلی___MTE	ADV	110;Lemma;R;;cat=R;%default
+بهرحال___MTE	ADV	110;Lemma;R;;cat=R;%default
+بهت زده___MTE	ADV	110;Lemma;R;;cat=R;%default
+بکر___MTE	ADV	110;Lemma;R;;cat=R;%default
+بلند بلند___MTE	ADV	110;Lemma;R;;cat=R;%default
+بنابراین___MTE	ADV	110;Lemma;R;;cat=R;%default
+برعکس___MTE	ADV	110;Lemma;R;;cat=R;%default
+برابر___MTE	ADV	110;Lemma;R;;cat=R;%default
+برادروار___MTE	ADV	110;Lemma;R;;cat=R;%default
+برهنه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بریده بریده___MTE	ADV	110;Lemma;R;;cat=R;%default
+بس___MTE	ADV	110;Lemma;R;;cat=R;%default
+بسیار___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی اختیار___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی دلیل___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی درنگ___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی هوا___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی گمان___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی جواب___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی محابا___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی مقدمه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی نهایت___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی توجه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی وقفه___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی خیال___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی حرکت___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی صدا___MTE	ADV	110;Lemma;R;;cat=R;%default
+بی شک___MTE	ADV	110;Lemma;R;;cat=R;%default
+بیهوده___MTE	ADV	110;Lemma;R;;cat=R;%default
+بیست وچهارساعته___MTE	ADV	110;Lemma;R;;cat=R;%default
+داوطلبانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+دایم___MTE	ADV	110;Lemma;R;;cat=R;%default
+دائم___MTE	ADV	110;Lemma;R;;cat=R;%default
+دائماٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+درعین حال___MTE	ADV	110;Lemma;R;;cat=R;%default
+دراین صورت___MTE	ADV	110;Lemma;R;;cat=R;%default
+دراز___MTE	ADV	110;Lemma;R;;cat=R;%default
+دربست___MTE	ADV	110;Lemma;R;;cat=R;%default
+درست___MTE	ADV	110;Lemma;R;;cat=R;%default
+درآن صورت___MTE	ADV	110;Lemma;R;;cat=R;%default
+درحال حاضر___MTE	ADV	110;Lemma;R;;cat=R;%default
+درضمن___MTE	ADV	110;Lemma;R;;cat=R;%default
+دست کم___MTE	ADV	110;Lemma;R;;cat=R;%default
+دست نخورده___MTE	ADV	110;Lemma;R;;cat=R;%default
+دست وپاشکسته___MTE	ADV	110;Lemma;R;;cat=R;%default
+دوپهلو___MTE	ADV	110;Lemma;R;;cat=R;%default
+دوستانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+دوچندان___MTE	ADV	110;Lemma;R;;cat=R;%default
+دیر___MTE	ADV	110;Lemma;R;;cat=R;%default
+دیوانه وار___MTE	ADV	110;Lemma;R;;cat=R;%default
+دزدانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+دزدکی___MTE	ADV	110;Lemma;R;;cat=R;%default
+هم اکنون___MTE	ADV	110;Lemma;R;;cat=R;%default
+هم زمان___MTE	ADV	110;Lemma;R;;cat=R;%default
+هم چنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+همان گونه___MTE	ADV	110;Lemma;R;;cat=R;%default
+همان جا___MTE	ADV	110;Lemma;R;;cat=R;%default
+همان طور___MTE	ADV	110;Lemma;R;;cat=R;%default
+همین___MTE	ADV	110;Lemma;R;;cat=R;%default
+همین طور___MTE	ADV	110;Lemma;R;;cat=R;%default
+همین طوری___MTE	ADV	110;Lemma;R;;cat=R;%default
+همیشه___MTE	ADV	110;Lemma;R;;cat=R;%default
+همزمان___MTE	ADV	110;Lemma;R;;cat=R;%default
+هنوز___MTE	ADV	110;Lemma;R;;cat=R;%default
+هری___MTE	ADV	110;Lemma;R;;cat=R;%default
+هرچه___MTE	ADV	110;Lemma;R;;cat=R;%default
+هرچند___MTE	ADV	110;Lemma;R;;cat=R;%default
+هرقدر___MTE	ADV	110;Lemma;R;;cat=R;%default
+هیجان زده___MTE	ADV	110;Lemma;R;;cat=R;%default
+هیچ گاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+هیچ وقت___MTE	ADV	110;Lemma;R;;cat=R;%default
+هیچگاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+هیچوقت___MTE	ADV	110;Lemma;R;;cat=R;%default
+هق هق کنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+فوق العاده___MTE	ADV	110;Lemma;R;;cat=R;%default
+فقط___MTE	ADV	110;Lemma;R;;cat=R;%default
+گاه به گاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+گروه گروه___MTE	ADV	110;Lemma;R;;cat=R;%default
+گویا___MTE	ADV	110;Lemma;R;;cat=R;%default
+گویی___MTE	ADV	110;Lemma;R;;cat=R;%default
+گذشته از این___MTE	ADV	110;Lemma;R;;cat=R;%default
+گشادگشاد___MTE	ADV	110;Lemma;R;;cat=R;%default
+جدا___MTE	ADV	110;Lemma;R;;cat=R;%default
+جداگانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+جست وخیزکنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+جسورانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+کابوس وار___MTE	ADV	110;Lemma;R;;cat=R;%default
+کامل___MTE	ADV	110;Lemma;R;;cat=R;%default
+کلاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+کم کم___MTE	ADV	110;Lemma;R;;cat=R;%default
+کم وبیش___MTE	ADV	110;Lemma;R;;cat=R;%default
+کمابیش___MTE	ADV	110;Lemma;R;;cat=R;%default
+کماکان___MTE	ADV	110;Lemma;R;;cat=R;%default
+کند___MTE	ADV	110;Lemma;R;;cat=R;%default
+کنون___MTE	ADV	110;Lemma;R;;cat=R;%default
+کوتاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+کی___MTE	ADV	110;Lemma;R;;cat=R;%default
+کشان کشان___MTE	ADV	110;Lemma;R;;cat=R;%default
+لااقل___MTE	ADV	110;Lemma;R;;cat=R;%default
+لاجرعه___MTE	ADV	110;Lemma;R;;cat=R;%default
+لاجرم___MTE	ADV	110;Lemma;R;;cat=R;%default
+لازم___MTE	ADV	110;Lemma;R;;cat=R;%default
+لبخندزنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+لنگ لنگان___MTE	ADV	110;Lemma;R;;cat=R;%default
+لخ لخ کنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+معمولاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+مبادا___MTE	ADV	110;Lemma;R;;cat=R;%default
+مدام___MTE	ADV	110;Lemma;R;;cat=R;%default
+مجروح___MTE	ADV	110;Lemma;R;;cat=R;%default
+ملتمسانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+منتظر___MTE	ADV	110;Lemma;R;;cat=R;%default
+منطقی___MTE	ADV	110;Lemma;R;;cat=R;%default
+مستقیم___MTE	ADV	110;Lemma;R;;cat=R;%default
+متفکرانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+متواضعانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+متحداٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+موزون___MTE	ADV	110;Lemma;R;;cat=R;%default
+موذیانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+مخفیانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+مخصوصاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+مأیوسانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+مثلاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+مؤثر___MTE	ADV	110;Lemma;R;;cat=R;%default
+محفوظ___MTE	ADV	110;Lemma;R;;cat=R;%default
+محکم___MTE	ADV	110;Lemma;R;;cat=R;%default
+محتاطانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+مشت مشت___MTE	ADV	110;Lemma;R;;cat=R;%default
+مشتاقانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+مطمئناٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+نعره زنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+نادیده___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناگهان___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناگهانی___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناخواسته___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناخودآگاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناآگاهانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناقص___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناشنیده___MTE	ADV	110;Lemma;R;;cat=R;%default
+ناشیانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+نه چندان___MTE	ADV	110;Lemma;R;;cat=R;%default
+نهفته___MTE	ADV	110;Lemma;R;;cat=R;%default
+نو___MTE	ADV	110;Lemma;R;;cat=R;%default
+نخست___MTE	ADV	110;Lemma;R;;cat=R;%default
+نیمه کاره___MTE	ADV	110;Lemma;R;;cat=R;%default
+نق نق کنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+پنهان___MTE	ADV	110;Lemma;R;;cat=R;%default
+پس___MTE	ADV	110;Lemma;R;;cat=R;%default
+پیروزمندانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+پیشاپیش___MTE	ADV	110;Lemma;R;;cat=R;%default
+پشت سر___MTE	ADV	110;Lemma;R;;cat=R;%default
+غرغرکنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+غریزی___MTE	ADV	110;Lemma;R;;cat=R;%default
+غیرمستقیم___MTE	ADV	110;Lemma;R;;cat=R;%default
+راست___MTE	ADV	110;Lemma;R;;cat=R;%default
+راحت___MTE	ADV	110;Lemma;R;;cat=R;%default
+رک___MTE	ADV	110;Lemma;R;;cat=R;%default
+رسمی___MTE	ADV	110;Lemma;R;;cat=R;%default
+روحاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+روشن___MTE	ADV	110;Lemma;R;;cat=R;%default
+ساده___MTE	ADV	110;Lemma;R;;cat=R;%default
+ساکت___MTE	ADV	110;Lemma;R;;cat=R;%default
+سپس___MTE	ADV	110;Lemma;R;;cat=R;%default
+سرانجام___MTE	ADV	110;Lemma;R;;cat=R;%default
+سراپا___MTE	ADV	110;Lemma;R;;cat=R;%default
+سراسیمه___MTE	ADV	110;Lemma;R;;cat=R;%default
+سرپا___MTE	ADV	110;Lemma;R;;cat=R;%default
+سرسری___MTE	ADV	110;Lemma;R;;cat=R;%default
+سرتاسر___MTE	ADV	110;Lemma;R;;cat=R;%default
+سخت___MTE	ADV	110;Lemma;R;;cat=R;%default
+تابه حال___MTE	ADV	110;Lemma;R;;cat=R;%default
+تازه___MTE	ADV	110;Lemma;R;;cat=R;%default
+تک وتوک___MTE	ADV	110;Lemma;R;;cat=R;%default
+تلویحاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+تلویحی___MTE	ADV	110;Lemma;R;;cat=R;%default
+تمام وقت___MTE	ADV	110;Lemma;R;;cat=R;%default
+تند___MTE	ADV	110;Lemma;R;;cat=R;%default
+تندتند___MTE	ADV	110;Lemma;R;;cat=R;%default
+تنگ___MTE	ADV	110;Lemma;R;;cat=R;%default
+تقریباٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+تصادفی___MTE	ADV	110;Lemma;R;;cat=R;%default
+واقعاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+واقعی___MTE	ADV	110;Lemma;R;;cat=R;%default
+واضح___MTE	ADV	110;Lemma;R;;cat=R;%default
+وحشت زده___MTE	ADV	110;Lemma;R;;cat=R;%default
+خارج___MTE	ADV	110;Lemma;R;;cat=R;%default
+خبردار___MTE	ADV	110;Lemma;R;;cat=R;%default
+خلاصه___MTE	ADV	110;Lemma;R;;cat=R;%default
+خنده کنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+خرامان___MTE	ADV	110;Lemma;R;;cat=R;%default
+خردخرد___MTE	ADV	110;Lemma;R;;cat=R;%default
+خواب آلود___MTE	ADV	110;Lemma;R;;cat=R;%default
+خوب___MTE	ADV	110;Lemma;R;;cat=R;%default
+خودبه خود___MTE	ADV	110;Lemma;R;;cat=R;%default
+خونسرد___MTE	ADV	110;Lemma;R;;cat=R;%default
+خوشبختانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+خیلی___MTE	ADV	110;Lemma;R;;cat=R;%default
+خیره___MTE	ADV	110;Lemma;R;;cat=R;%default
+خصوصاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+یعنی___MTE	ADV	110;Lemma;R;;cat=R;%default
+یک باره___MTE	ADV	110;Lemma;R;;cat=R;%default
+یک جا___MTE	ADV	110;Lemma;R;;cat=R;%default
+یک مرتبه___MTE	ADV	110;Lemma;R;;cat=R;%default
+یک ریز___MTE	ADV	110;Lemma;R;;cat=R;%default
+زنده___MTE	ADV	110;Lemma;R;;cat=R;%default
+زنده زنده___MTE	ADV	110;Lemma;R;;cat=R;%default
+زوزه کشان___MTE	ADV	110;Lemma;R;;cat=R;%default
+زیاد___MTE	ADV	110;Lemma;R;;cat=R;%default
+زیادی___MTE	ADV	110;Lemma;R;;cat=R;%default
+زیگزاگ___MTE	ADV	110;Lemma;R;;cat=R;%default
+زیرچشمی___MTE	ADV	110;Lemma;R;;cat=R;%default
+ثابت___MTE	ADV	110;Lemma;R;;cat=R;%default
+آهسته___MTE	ADV	110;Lemma;R;;cat=R;%default
+آهسته آهسته___MTE	ADV	110;Lemma;R;;cat=R;%default
+آگاهانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+آن وقت___MTE	ADV	110;Lemma;R;;cat=R;%default
+آن چنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+آن قدر___MTE	ADV	110;Lemma;R;;cat=R;%default
+آنگاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+آخرسر___MTE	ADV	110;Lemma;R;;cat=R;%default
+آیا___MTE	ADV	110;Lemma;R;;cat=R;%default
+آزاد___MTE	ADV	110;Lemma;R;;cat=R;%default
+آزادانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+آشکار___MTE	ADV	110;Lemma;R;;cat=R;%default
+آشکارا___MTE	ADV	110;Lemma;R;;cat=R;%default
+چه گونه___MTE	ADV	110;Lemma;R;;cat=R;%default
+چه قدر___MTE	ADV	110;Lemma;R;;cat=R;%default
+چهارچشمی___MTE	ADV	110;Lemma;R;;cat=R;%default
+چرا___MTE	ADV	110;Lemma;R;;cat=R;%default
+چسبیده___MTE	ADV	110;Lemma;R;;cat=R;%default
+چقدر___MTE	ADV	110;Lemma;R;;cat=R;%default
+چطور___MTE	ADV	110;Lemma;R;;cat=R;%default
+ذره ذره___MTE	ADV	110;Lemma;R;;cat=R;%default
+حال___MTE	ADV	110;Lemma;R;;cat=R;%default
+حالا___MTE	ADV	110;Lemma;R;;cat=R;%default
+حداکثر___MTE	ADV	110;Lemma;R;;cat=R;%default
+حداقل___MTE	ADV	110;Lemma;R;;cat=R;%default
+حدوداٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+حل نشده___MTE	ADV	110;Lemma;R;;cat=R;%default
+حسابی___MTE	ADV	110;Lemma;R;;cat=R;%default
+حتماٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+حیرت زده___MTE	ADV	110;Lemma;R;;cat=R;%default
+حقیقتاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+قبل___MTE	ADV	110;Lemma;R;;cat=R;%default
+قبل از___MTE	ADV	110;Lemma;R;;cat=R;%default
+قدم زنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+قطعاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+صادقانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+صاف___MTE	ADV	110;Lemma;R;;cat=R;%default
+صبورانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+صریحاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+شبانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+شبه وار___MTE	ADV	110;Lemma;R;;cat=R;%default
+شناکنان___MTE	ADV	110;Lemma;R;;cat=R;%default
+طبیعتاٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+ضمنی___MTE	ADV	110;Lemma;R;;cat=R;%default
+ظاهراٌ___MTE	ADV	110;Lemma;R;;cat=R;%default
+دورتادور___MTE	ADV	110;Lemma;R;;cat=R;%default
+کف___MTE	ADV	110;Lemma;R;;cat=R;%default
+لای___MTE	ADV	110;Lemma;R;;cat=R;%default
+پشت___MTE	ADV	110;Lemma;R;;cat=R;%default
+تنگاتنگ___MTE	ADV	110;Lemma;R;;cat=R;%default
+حول وحوش___MTE	ADV	110;Lemma;R;;cat=R;%default
+صرف___MTE	ADV	110;Lemma;R;;cat=R;%default
+بالا___MTE	ADV	110;Lemma;R;;cat=R;%default
+بد___MTE	ADV	110;Lemma;R;;cat=R;%default
+دور___MTE	ADV	110;Lemma;R;;cat=R;%default
+سریع___MTE	ADV	110;Lemma;R;;cat=R;%default
+زود___MTE	ADV	110;Lemma;R;;cat=R;%default
+گاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+گاه گاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+گهگاه___MTE	ADV	110;Lemma;R;;cat=R;%default
+چه طور___MTE	ADV	110;Lemma;R;;cat=R;%default
+وسط___MTE	ADV	110;Lemma;R;;cat=R;%default
+زیر___MTE	ADV	110;Lemma;R;;cat=R;%default
+صبح___MTE	ADV	110;Lemma;R;;cat=R;%default
+بعد___MTE	ADV	110;Lemma;R;;cat=R;%default
+بعدازظهر___MTE	ADV	110;Lemma;R;;cat=R;%default
+دیگر___MTE	ADV	110;Lemma;R;;cat=R;%default
+مگر___MTE	ADV	110;Lemma;R;;cat=R;%default
+روز___MTE	ADV	110;Lemma;R;;cat=R;%default
+کم___MTE	ADV	110;Lemma;R;;cat=R;%default
+اول___MTE	ADV	110;Lemma;R;;cat=R;%default
+دقیق___MTE	ADV	110;Lemma;R;;cat=R;%default
+نزدیک___MTE	ADV	110;Lemma;R;;cat=R;%default
+سال___MTE	ADV	110;Lemma;R;;cat=R;%default
+وحشیانه___MTE	ADV	110;Lemma;R;;cat=R;%default
+آرام___MTE	ADV	110;Lemma;R;;cat=R;%default
+شب___MTE	ADV	110;Lemma;R;;cat=R;%default

@@ -1,0 +1,37 @@
+کدام	inv	100;Lemma;DET;;cat=DET;%default	# 208/508=0.4
+کدامین	inv	100;Lemma;DET;;cat=DET;%default	# 4/4=1
+کدوم	inv	100;Lemma;DET;;cat=DET;%default	# 4/4=1
+یگانه	inv	100;Lemma;DET;;cat=DET;%default	# 2/39=0.05
+این	inv	100;Lemma;DET;;cat=DET;%default	# 2/2=1
+این	inv	100;Lemma;DET;;cat=DET;%default	# 37880/42018=0.9
+این‌اه	inv	100;Lemma;DET;;cat=DET;%default	# 37880/42018=0.9
+اینگونه	inv	100;Lemma;DET;;cat=DET;%default	# 14/50=0.28
+اینهمه	inv	100;Lemma;DET;;cat=DET;%default	# 5/6=0.83
+اون	inv	100;Lemma;DET;;cat=DET;%default	# 23/28=0.82
+بهمان	inv	100;Lemma;DET;;cat=DET;%default	# 2/5=0.4
+بعضی	inv	100;Lemma;DET;;cat=DET;%default	# 2/5=0.4
+
+دیگر	inv	100;Lemma;DET;;cat=DET;%default	# 658/4195=0.15
+دگر	inv	100;Lemma;DET;;cat=DET;%default	# 2/18=0.11
+فلان	inv	100;Lemma;DET;;cat=DET;%default	# 70/79=0.88
+هیچگونه	inv	100;Lemma;DET;;cat=DET;%default	# 8/8=1
+همون	inv	100;Lemma;DET;;cat=DET;%default	# 3/3=1
+معدود	inv	100;Lemma;DET;;cat=DET;%default	# 2/29=0.06
+تک	inv	100;Lemma;DET;;cat=DET;%default	# 3/27=0.11
+تنها	inv	100;Lemma;DET;;cat=DET;%default	# 53/1308=0.04
+آن	inv	100;Lemma;DET;;cat=DET;%default	# 2994/14386=0.2
+چند	inv	100;Lemma;DET;;cat=DET;%default	# 1/1=1
+چی	inv	100;Lemma;DET;;cat=DET;%default	# 1/58=0.01
+چه	inv	100;Lemma;DET;;cat=DET;%default	# 933/1970=0.47
+این گونه	inv	100;Lemma;DET;;cat=DET;%default	# 1/18=0.05
+
+همان	inv	100;Lemma;PRO;;cat=PRO;%default	# 2773	même	Déterminant / Pronom	# 1192/1256=0.94
+همین	inv	100;Lemma;PRO;;cat=PRO;%default	# 4411	cela (même)	Pronom / Déterminant	# 1766/1855=0.95
+چنان	inv	100;Lemma;PRO;;cat=PRO;%default	# 8/187=0.04
+چنین	inv	100;Lemma;PRO;;cat=PRO;%default	#
+آنچنان	inv	100;Lemma;PRO;;cat=PRO;%default	#
+آنچنین	inv	100;Lemma;PRO;;cat=PRO;%default	#
+همچنان	inv	100;Lemma;PRO;;cat=PRO;%default	#
+همچنین	inv	100;Lemma;PRO;;cat=PRO;%default	# fam emčyn
+چندین	inv	100;Lemma;pri;;cat=pri;%default	# 4027	combien	Pronom interrogatif /Déterminant	# 23/261=0.08
+چندان	inv	100;Lemma;pri;;cat=pri;%default	# combien

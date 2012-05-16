@@ -1,0 +1,548 @@
+عاقبت	inv	100;Lemma;CON;;cat=CON;%default	# 1/20=0.05
+علیهذا	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+علیرغم	inv	100;Lemma;CON;;cat=CON;%default	# 106/106=1
+عملا	inv	100;Lemma;CON;;cat=CON;%default	# 1/19=0.05
+کاین	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+کان	inv	100;Lemma;CON;;cat=CON;%default	# 4/23=0.17
+کاندر	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+کانجا	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+کاو	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+کاخر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+کمااینکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+کو	inv	100;Lemma;CON;;cat=CON;%default	# 3/55=0.05
+کز	inv	100;Lemma;CON;;cat=CON;%default	# 24/26=0.92
+کزو	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+کش	inv	100;Lemma;CON;;cat=CON;%default	# 1/3=0.33
+یعنی	inv	120;Lemma;CON;;cat=CON;%default	# 1234/1358=0.9
+یا	inv	120;Lemma;CON;;cat=CON;%default	# 4941/4943=0.99
+یقیناٌ	inv	100;Lemma;CON;;cat=CON;%default	# 2/28=0.07
+اینستکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ابتدا	inv	100;Lemma;CON;;cat=CON;%default	# 4/331=0.01
+اگرچه	inv	120;Lemma;CON;;cat=CON;%default	# 167/170=0.98
+العیاذبالله	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+الا	inv	100;Lemma;CON;;cat=CON;%default	# 7/34=0.2
+البته	inv	100;Lemma;CON;;cat=CON;%default	# 202/912=0.22
+اما	inv	120;Lemma;CON;;cat=CON;%default	# 3339/3347=0.99
+انگار	inv	100;Lemma;CON;;cat=CON;%default	# 19/45=0.42
+ارنه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+اولا	inv	100;Lemma;CON;;cat=CON;%default	# 7/15=0.46
+اولاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 52/86=0.6
+ازینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ازآنجاکه	inv	120;Lemma;CON;;cat=CON;%default	# 1/1=1
+ازآنجاایکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ازطرفی	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+بعکس	inv	100;Lemma;CON;;cat=CON;%default	# 1/4=0.25
+بعد	inv	100;Lemma;CON;;cat=CON;%default	# 213/1764=0.12
+بعدا	inv	100;Lemma;CON;;cat=CON;%default	# 9/43=0.2
+بعداٌ	inv	100;Lemma;CON;;cat=CON;%default	# 26/67=0.38
+بعدها	inv	100;Lemma;CON;;cat=CON;%default	# 5/74=0.06
+بعلاوه	inv	100;Lemma;CON;;cat=CON;%default	# 28/28=1
+بعلاوث	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بالعکس	inv	100;Lemma;CON;;cat=CON;%default	# 3/30=0.1
+بالاخره	inv	100;Lemma;CON;;cat=CON;%default	# 43/182=0.23
+بالاخص	inv	100;Lemma;CON;;cat=CON;%default	# 6/8=0.75
+بالجمله	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بالتبع	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+باری	inv	100;Lemma;CON;;cat=CON;%default	# 7/63=0.11
+باستثناْ	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+باضافه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدینسان	inv	100;Lemma;CON;;cat=CON;%default	# 3/5=0.6
+بدو	inv	100;Lemma;CON;;cat=CON;%default	# 1/47=0.02
+بهرحال	inv	100;Lemma;CON;;cat=CON;%default	# 20/20=1
+بجز	inv	100;Lemma;CON;;cat=CON;%default	# 29/29=1
+بل	inv	100;Lemma;CON;;cat=CON;%default	# 2/8=0.25
+بلکه	inv	120;Lemma;CON;;cat=CON;%default	# 874/876=0.99
+بلاخره	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بلاشک	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بنابراین	inv	100;Lemma;CON;;cat=CON;%default	# 523/523=1
+بنابراین,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+برعکس	inv	100;Lemma;CON;;cat=CON;%default	# 5/55=0.09
+برغم	inv	100;Lemma;CON;;cat=CON;%default	# 12/12=1
+برخلاف	inv	120;Lemma;CON;;cat=CON;%default	# 1/1=1
+بویژه	inv	100;Lemma;CON;;cat=CON;%default	# 153/249=0.61
+بخصوص	inv	100;Lemma;CON;;cat=CON;%default	# 258/258=1
+بطورکلی	inv	100;Lemma;CON;;cat=CON;%default	# 8/12=0.66
+بحمدالله	inv	100;Lemma;CON;;cat=CON;%default	# 3/21=0.14
+دیگه	inv	100;Lemma;CON;;cat=CON;%default	# 1/15=0.06
+درهرحال	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+درمجموع	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+درواقع	inv	100;Lemma;CON;;cat=CON;%default	# 52/71=0.73
+درصورتی	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+درحالیکه	inv	100;Lemma;CON;;cat=CON;%default	# 26/26=1
+درحقیقت	inv	100;Lemma;CON;;cat=CON;%default	# 1/3=0.33
+فلذا	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+گر	inv	100;Lemma;CON;;cat=CON;%default	# 10/55=0.18
+گرچه	inv	120;Lemma;CON;;cat=CON;%default	# 170/180=0.94
+گوای	inv	100;Lemma;CON;;cat=CON;%default	# 2/9=0.22
+هکذا	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+هم	inv	120;Lemma;CON;;cat=CON;%default	# 4985/5482=0.9
+همی	inv	100;Lemma;CON;;cat=CON;%default	# 14/15=0.93
+همینطور	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+همانا	inv	100;Lemma;CON;;cat=CON;%default	# 1/36=0.02
+همانگونه	inv	100;Lemma;CON;;cat=CON;%default	# 4/13=0.3
+همانطور	inv	100;Lemma;CON;;cat=CON;%default	# 2/6=0.33
+همانطورکه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+همچین	inv	100;Lemma;CON;;cat=CON;%default	# 1/7=0.14
+همچنین	inv	120;Lemma;CON;;cat=CON;%default	# 1883/1886=0.99
+همچنانکه	inv	100;Lemma;CON;;cat=CON;%default	# 26/26=1
+هرچند	inv	100;Lemma;CON;;cat=CON;%default	# 169/179=0.94
+هرچندکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+جز	inv	100;Lemma;CON;;cat=CON;%default	# 410/410=1
+لکن	inv	100;Lemma;CON;;cat=CON;%default	# 52/53=0.98
+لیک	inv	100;Lemma;CON;;cat=CON;%default	# 3/4=0.75
+لیکن	inv	100;Lemma;CON;;cat=CON;%default	# 99/99=1
+لاکن	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+لااقل	inv	100;Lemma;CON;;cat=CON;%default	# 8/62=0.12
+لهذا	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+لذا	inv	100;Lemma;CON;;cat=CON;%default	# 392/393=0.99
+معمولاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 12/267=0.04
+معذالک	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+معذلک	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+مادام	inv	100;Lemma;CON;;cat=CON;%default	# 3/15=0.2
+مادامی	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+مادامیکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+مگر	inv	100;Lemma;CON;;cat=CON;%default	# 41/163=0.25
+منجمله	inv	100;Lemma;CON;;cat=CON;%default	# 2/6=0.33
+منتهی	inv	100;Lemma;CON;;cat=CON;%default	# 26/92=0.28
+منتها	inv	120;Lemma;CON;;cat=CON;%default	# 13/34=0.38
+مر	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+موقعی	inv	100;Lemma;CON;;cat=CON;%default	# 1/31=0.03
+مخصوصاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 1/44=0.02
+مثلا	inv	100;Lemma;CON;;cat=CON;%default	# 6/162=0.03
+مثلاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 41/259=0.15
+نیز	inv	120;Lemma;CON;;cat=CON;%default	# 6401/6401=1
+نیز,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ناگهان	inv	100;Lemma;CON;;cat=CON;%default	# 32/95=0.33
+ناگزیر	inv	100;Lemma;CON;;cat=CON;%default	# 1/62=0.01
+نه	inv	120;Lemma;CON;;cat=CON;%default	# 154/1301=0.11
+نهایتا	inv	100;Lemma;CON;;cat=CON;%default	# 8/24=0.33
+نهایتاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 2/49=0.04
+پس	inv	100;Lemma;CON;;cat=CON;%default	# 176/2779=0.06
+پس,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+غیر	inv	100;Lemma;CON;;cat=CON;%default	# 25/781=0.03
+رابعا	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+راستی	inv	100;Lemma;CON;;cat=CON;%default	# 1/36=0.02
+سلمنا	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+سپس	inv	100;Lemma;CON;;cat=CON;%default	# 563/563=1
+سرانجام	inv	100;Lemma;CON;;cat=CON;%default	# 69/174=0.39
+تا	inv	120;Lemma;CON;;cat=CON;%default	# 337/6847=0.04
+تازه	inv	100;Lemma;CON;;cat=CON;%default	# 6/302=0.01
+و	inv	120;Lemma;CON;;cat=CON;%default	# et	# 120163/120567=0.99
+ویا	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+وین	inv	100;Lemma;CON;;cat=CON;%default	# 4/79=0.05
+والا	inv	100;Lemma;CON;;cat=CON;%default	# 19/36=0.52
+وانگهی	inv	100;Lemma;CON;;cat=CON;%default	# 4/7=0.57
+وگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+وگرنه	inv	120;Lemma;CON;;cat=CON;%default	# 38/38=1
+ولی	inv	120;Lemma;CON;;cat=CON;%default	# 1601/1704=0.93
+ولیکن	inv	100;Lemma;CON;;cat=CON;%default	# 19/19=1
+ولو	inv	100;Lemma;CON;;cat=CON;%default	# 26/30=0.86
+وندر	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+ور	inv	100;Lemma;CON;;cat=CON;%default	# 1/10=0.1
+ورنه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+وز	inv	100;Lemma;CON;;cat=CON;%default	# 8/14=0.57
+وزان	inv	100;Lemma;CON;;cat=CON;%default	# 1/3=0.33
+وقتی	inv	100;Lemma;CON;;cat=CON;%default	# 668/839=0.79
+خاصه	inv	100;Lemma;CON;;cat=CON;%default	# 1/13=0.07
+خلاصه	inv	100;Lemma;CON;;cat=CON;%default	# 5/106=0.04
+خواه	inv	100;Lemma;CON;;cat=CON;%default	# 45/45=1
+خصوصا	inv	100;Lemma;CON;;cat=CON;%default	# 8/36=0.22
+خصوصاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 1/63=0.01
+ز	inv	100;Lemma;CON;;cat=CON;%default	# 20/208=0.09
+زین	inv	100;Lemma;CON;;cat=CON;%default	# 2/18=0.11
+زیرا	inv	120;Lemma;CON;;cat=CON;%default	# 695/695=1
+زانکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+زمانیکه	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+زمن	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+ثالثا	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+ثالثاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 4/9=0.44
+ثانیا	inv	100;Lemma;CON;;cat=CON;%default	# 8/16=0.5
+ثانیاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 37/57=0.64
+آیا	inv	100;Lemma;CON;;cat=CON;%default	# 628/937=0.67
+آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 100/100=1
+آنگاه	inv	100;Lemma;CON;;cat=CON;%default	# 8/135=0.05
+آنهم	inv	100;Lemma;CON;;cat=CON;%default	# 14/14=1
+آنجاییکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+آنجاایکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آنوقت	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+آنچنانکه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+آنطور	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+آنطوریکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آخه	inv	100;Lemma;CON;;cat=CON;%default	# 1/10=0.1
+آخر	inv	100;Lemma;CON;;cat=CON;%default	# 7/298=0.02
+چه	inv	120;Lemma;CON;;cat=CON;%default	# 326/1970=0.16
+چنانکه	inv	120;Lemma;CON;;cat=CON;%default	# 136/136=1
+چنانچه	inv	100;Lemma;CON;;cat=CON;%default	# 52/239=0.21
+چرا	inv	100;Lemma;CON;;cat=CON;%default	# 8/544=0.01
+چراکه	inv	120;Lemma;CON;;cat=CON;%default	# 19/19=1
+چو	inv	100;Lemma;CON;;cat=CON;%default	# 16/106=0.15
+چون	inv	120;Lemma;CON;;cat=CON;%default	# 817/1161=0.7
+چونکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+قطعاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 2/117=0.01
+صورتیکه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+ضمنا	inv	100;Lemma;CON;;cat=CON;%default	# 4/21=0.19
+ضمناٌ	inv	120;Lemma;CON;;cat=CON;%default	# 17/44=0.38
+حداقل	inv	100;Lemma;CON;;cat=CON;%default	# 11/392=0.02
+حتی	inv	120;Lemma;CON;;cat=CON;%default	# 434/1179=0.36
+حقیقتاٌ	inv	100;Lemma;CON;;cat=CON;%default	# 1/20=0.05
+علی ای حال	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+علی الخصوص	inv	100;Lemma;CON;;cat=CON;%default	# 3/4=0.75
+علی رغم	inv	100;Lemma;CON;;cat=CON;%default	# 57/64=0.89
+علی رغم این که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+علی رغم آن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+علیرغم آن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+علیرغم آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+علاوه بر	inv	100;Lemma;CON;;cat=CON;%default	# 230/230=1
+علاوه بر این	inv	100;Lemma;CON;;cat=CON;%default	# 69/69=1
+علاوه بر این که	inv	100;Lemma;CON;;cat=CON;%default	# 12/12=1
+علاوه بر اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+علاوه بر آن	inv	100;Lemma;CON;;cat=CON;%default	# 32/32=1
+علاوه بر آن که	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+علاوه براین	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+علاوه برآن	inv	100;Lemma;CON;;cat=CON;%default	# 9/9=1
+علاوه برآن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+علاوه برآنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+کمااین که	inv	100;Lemma;CON;;cat=CON;%default	# 9/9=1
+یا این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+یا اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+یا آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+این که	inv	100;Lemma;CON;;cat=CON;%default	# 297/297=1
+افزون بر این	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+افزون برآن	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+اگر چه	inv	100;Lemma;CON;;cat=CON;%default	# 94/101=0.93
+ار چه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از یک سو	inv	100;Lemma;CON;;cat=CON;%default	# 20/20=1
+از یک طرف	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+از این که	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+از این گذشته	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+از این میان	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از این رهگذر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از این رو,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از این روی	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+از اینها گذشته	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از بهر آن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+از بس که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از دیگر سوی	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از همین رو	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+از همین روی	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از جهت این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از سویی	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+از سوای	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از آن گذشته	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+از آن جهت که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+از آن جمله	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از آن رو	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+از آن رو که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از آن قبل	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از آن طرف	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از آنجاای که	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+از آنجاایکه	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+از طرف دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 20/20=1
+از طرفی	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+از طرفی دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+از طرفی هم	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+ازاین جهت	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+ازاین جهت که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ازاین رو	inv	100;Lemma;CON;;cat=CON;%default	# 137/137=1
+ازسوی دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 52/52=1
+ازآن جاکه	inv	100;Lemma;CON;;cat=CON;%default	# 97/97=1
+ازآن رو	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ازآنجایی که	inv	100;Lemma;CON;;cat=CON;%default	# 24/24=1
+بعبارت دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بعبارتی دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بعد از این که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+بعد از اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+بعد از آن	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بعد از آن که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بعد از آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بی آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 26/26=1
+با این که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+با این همه	inv	100;Lemma;CON;;cat=CON;%default	# 32/32=1
+با این ترتیب	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+با این وجود,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+با اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 9/9=1
+با اینهمه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+با توجه به این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+با توجه به اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+با توجه به آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+با وجود این	inv	100;Lemma;CON;;cat=CON;%default	# 26/26=1
+با وجود این,	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+با وجود آن که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+با وجود آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+با وجودی که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+با آن که	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+با آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 9/9=1
+باین ترتیب	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+بااین وجود	inv	100;Lemma;CON;;cat=CON;%default	# 23/23=1
+بااین حال	inv	100;Lemma;CON;;cat=CON;%default	# 43/77=0.55
+باوجودی که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+باوجوداین که	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+بدین دلیل	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدین گونه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدین گونه که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدین جهت	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+بدین لحاظ	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بدین منظور	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+بدین سان	inv	100;Lemma;CON;;cat=CON;%default	# 4/6=0.66
+بدین ترتیب	inv	100;Lemma;CON;;cat=CON;%default	# 147/150=0.98
+بدین ترتیب که	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+بدین وسیله	inv	100;Lemma;CON;;cat=CON;%default	# 27/28=0.96
+بدین قرار	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدین صورت	inv	100;Lemma;CON;;cat=CON;%default	# 3/4=0.75
+بدین صورت که	inv	100;Lemma;CON;;cat=CON;%default	# 12/12=1
+بدین طریق	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بدان سان که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدانگونه که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بدون این که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+بدون اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بدون آن که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+بگونه ای که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به عکس	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به عبارت دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 30/30=1
+به عبارتی	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+به عبارتی دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به علاوه	inv	100;Lemma;CON;;cat=CON;%default	# 47/47=1
+به عنوان مثال	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+به این دلیل	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به این معنا که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به این ترتیب	inv	100;Lemma;CON;;cat=CON;%default	# 38/38=1
+به این ترتیب که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+به این صورت که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به استثنای	inv	100;Lemma;CON;;cat=CON;%default	# 24/24=1
+به استثناا	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به استثناْ	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+به بیان دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به دیگر بیان	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به دیگر سخن	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به همین علت	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به همین دلیل	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+به همین جهت	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+به همین منظور	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به همین سان	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به هر روی	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به هر صورت	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به هرحال	inv	100;Lemma;CON;;cat=CON;%default	# 114/114=1
+به جای این که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+به جای آنکه	inv	120;Lemma;CON;;cat=CON;%default	# 1/1=1
+به جز	inv	100;Lemma;CON;;cat=CON;%default	# 69/69=1
+به جز این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به لحاظاین که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به مجرد آن که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به محض این که	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+به ناگاه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به نحوی که	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+به غیر	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به غیر از	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+به رغم	inv	100;Lemma;CON;;cat=CON;%default	# 30/92=0.32
+به رغم این که	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+به رغم آن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به سخن دیگر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به تبع	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+به ترتیب	inv	100;Lemma;CON;;cat=CON;%default	# 1/6=0.16
+به ویژه	inv	100;Lemma;CON;;cat=CON;%default	# 189/380=0.49
+به ویژه این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+به ویژه آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به خصوص	inv	100;Lemma;CON;;cat=CON;%default	# 137/147=0.93
+به صورتی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به شرط آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+به طور کلی	inv	100;Lemma;CON;;cat=CON;%default	# 14/57=0.24
+به طوری که	inv	120;Lemma;CON;;cat=CON;%default	# 85/85=1
+بهر حال	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بجای این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بنا بر این	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بنابر این	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بر خلاف	inv	100;Lemma;CON;;cat=CON;%default	# 11/11=1
+برای این که	inv	100;Lemma;CON;;cat=CON;%default	# 26/26=1
+برای اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+برای همین	inv	120;Lemma;CON;;cat=CON;%default	# 1/1=1
+برای مثال	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+برای آن که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+برای آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+براین اساس	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+برغم این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بویژه این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بویژه آن که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بخاطر این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+بطور کل	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+بطور کلی	inv	100;Lemma;CON;;cat=CON;%default	# 12/31=0.38
+بطوری که	inv	100;Lemma;CON;;cat=CON;%default	# 54/54=1
+دیگر این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+دگر آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در عین آن که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در عین حالیکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در عمل	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در عوض	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در کل	inv	100;Lemma;CON;;cat=CON;%default	# 8/16=0.5
+در این ارتباط	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در این اثنا	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در این راستا	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در ادامه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+در ارتباط با	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در اصل	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در هر صورت	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+در هر حال	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+در هرحال	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در مجموع	inv	100;Lemma;CON;;cat=CON;%default	# 2/48=0.04
+در مقابل	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+در نهایت	inv	100;Lemma;CON;;cat=CON;%default	# 28/62=0.45
+در نتیجه	inv	100;Lemma;CON;;cat=CON;%default	# 130/131=0.99
+در پایان	inv	100;Lemma;CON;;cat=CON;%default	# 11/11=1
+در غیر این صورت	inv	100;Lemma;CON;;cat=CON;%default	# 12/12=1
+در واقع	inv	100;Lemma;CON;;cat=CON;%default	# 332/360=0.92
+در واقع	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در آن صورت	inv	100;Lemma;CON;;cat=CON;%default	# 12/12=1
+در آغاز	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+در آخر	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+در ضمن	inv	100;Lemma;CON;;cat=CON;%default	# 40/44=0.9
+در حقیقت	inv	100;Lemma;CON;;cat=CON;%default	# 87/88=0.98
+درعین حال	inv	100;Lemma;CON;;cat=CON;%default	# 194/194=1
+درعین حال که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+دراین باره	inv	100;Lemma;CON;;cat=CON;%default	# 1/12=0.08
+دراین میان	inv	100;Lemma;CON;;cat=CON;%default	# 26/28=0.92
+دراین رابطه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+دراین صورت	inv	100;Lemma;CON;;cat=CON;%default	# 11/12=0.91
+دراین حال	inv	100;Lemma;CON;;cat=CON;%default	# 48/48=1
+درهمین رابطه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+درهمین حال	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+درآن صورت	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+درصورتی که	inv	120;Lemma;CON;;cat=CON;%default	# 57/96=0.59
+درحالی که	inv	100;Lemma;CON;;cat=CON;%default	# 464/465=0.99
+فی الواقع	inv	100;Lemma;CON;;cat=CON;%default	# 1/3=0.33
+گر چه	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+گو این که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+گو آن که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+گذشته از	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+گذشته از این	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+گذشته از اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+هم چنین	inv	100;Lemma;CON;;cat=CON;%default	# 103/117=0.88
+همین که	inv	120;Lemma;CON;;cat=CON;%default	# 9/10=0.9
+همین طور	inv	100;Lemma;CON;;cat=CON;%default	# 4/5=0.8
+همان گونه که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+همان طور که	inv	100;Lemma;CON;;cat=CON;%default	# 76/76=1
+همان طوری که	inv	100;Lemma;CON;;cat=CON;%default	# 14/14=1
+همانگونه که	inv	100;Lemma;CON;;cat=CON;%default	# 33/33=1
+همانطور که	inv	100;Lemma;CON;;cat=CON;%default	# 50/50=1
+همچنان که	inv	100;Lemma;CON;;cat=CON;%default	# 30/30=1
+هنگامی که	inv	100;Lemma;CON;;cat=CON;%default	# 85/88=0.96
+هر گاه	inv	100;Lemma;CON;;cat=CON;%default	# 1/3=0.33
+هر وقت	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+هر آینه	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+هر چه که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+هر چند	inv	100;Lemma;CON;;cat=CON;%default	# 44/82=0.53
+هر چند که	inv	100;Lemma;CON;;cat=CON;%default	# 31/31=1
+هر چند هم که	inv	100;Lemma;CON;;cat=CON;%default	# 1/2=0.5
+هرچند که	inv	100;Lemma;CON;;cat=CON;%default	# 13/13=1
+مع الاسف	inv	100;Lemma;CON;;cat=CON;%default	# 1/7=0.14
+مع الوصف	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+مع هذا	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+مع ذلک	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+مادام که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+مادامی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+مگر این که	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+مگر آن که	inv	100;Lemma;CON;;cat=CON;%default	# 11/11=1
+من جمله	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+منتهای مراتب	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+موقعی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+مثل این که	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+نه فقط	inv	120;Lemma;CON;;cat=CON;%default	# 21/27=0.77
+نه تنها	inv	120;Lemma;CON;;cat=CON;%default	# 286/289=0.98
+نه آن که	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+نهایت این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+پیش از آن	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+پیش ازاین	inv	100;Lemma;CON;;cat=CON;%default	# 8/32=0.25
+پیش ازاینکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+پیش ازآنکه	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+پس از این که	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+پس از اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+پس از آن	inv	100;Lemma;CON;;cat=CON;%default	# 20/26=0.76
+پس ازآنکه	inv	100;Lemma;CON;;cat=CON;%default	# 15/15=1
+غیر از	inv	100;Lemma;CON;;cat=CON;%default	# 5/5=1
+تا این که	inv	100;Lemma;CON;;cat=CON;%default	# 11/11=1
+تا اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+تا جایی که	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+تا جاای که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+تا جاایکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+تا وقتی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+تا آن که	inv	100;Lemma;CON;;cat=CON;%default	# 8/8=1
+تا آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+تا آنجا که	inv	100;Lemma;CON;;cat=CON;%default	# 18/18=1
+تازمانی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+و الا	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+و گرنه	inv	100;Lemma;CON;;cat=CON;%default	# 4/4=1
+و لیکن	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ولو این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+ولو اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+وز آن رو	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+وقتی که	inv	100;Lemma;CON;;cat=CON;%default	# 46/46=1
+زیرا که	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+زمانی که	inv	120;Lemma;CON;;cat=CON;%default	# 11/11=1
+آن که	inv	100;Lemma;CON;;cat=CON;%default	# 57/57=1
+آن گاه	inv	100;Lemma;CON;;cat=CON;%default	# 1/14=0.07
+آن گاه که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آن گونه که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آن هم	inv	100;Lemma;CON;;cat=CON;%default	# 19/24=0.79
+آن سان که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آن وقت	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+آن چنان که	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+آن چنانی که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آنگونه که	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+آنچنان که	inv	100;Lemma;CON;;cat=CON;%default	# 6/6=1
+آنطور که	inv	100;Lemma;CON;;cat=CON;%default	# 10/10=1
+آخر الامر	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+آخر از همه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+چه اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+چه بسا	inv	100;Lemma;CON;;cat=CON;%default	# 1/33=0.03
+چه بسا که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+چنان که	inv	120;Lemma;CON;;cat=CON;%default	# 10/23=0.43
+چندان که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+چرا که	inv	120;Lemma;CON;;cat=CON;%default	# 271/272=0.99
+چون که	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+قبل از این که	inv	100;Lemma;CON;;cat=CON;%default	# 2/3=0.66
+قبل از اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 3/3=1
+قبل از آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 2/2=1
+صرفنظر از این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+شگفت اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+طوری که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+ضمن این که	inv	100;Lemma;CON;;cat=CON;%default	# 15/15=1
+ضمن اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 7/7=1
+ضمن آن که	inv	100;Lemma;CON;;cat=CON;%default	# 18/18=1
+حال این که	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+حال اینکه	inv	100;Lemma;CON;;cat=CON;%default	# 1/1=1
+حال آن که	inv	100;Lemma;CON;;cat=CON;%default	# 31/31=1
+حال آنکه	inv	100;Lemma;CON;;cat=CON;%default	# 9/9=1
+
+که	inv	120;Lemma;CON;;cat=CON;%default	# 49600/49681=0.99
+‌i که	inv	100;Lemma;CON;;cat=CON;%default	#
+
+
+
+
+علاوه براینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+ازبس که___MTE	inv	110;Lemma;C;;cat=C;%default
+باوجوداینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+باوجودآنکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به این دلیل که___MTE	inv	110;Lemma;C;;cat=C;%default
+به دلیل اینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به محض اینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به محض آنکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به خاطراینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به خاطرآنکه___MTE	inv	110;Lemma;C;;cat=C;%default
+به شرطی که___MTE	inv	110;Lemma;C;;cat=C;%default
+درغیراین صورت___MTE	inv	110;Lemma;C;;cat=C;%default
+همان طورکه___MTE	inv	110;Lemma;C;;cat=C;%default
+هرگاه___MTE	inv	110;Lemma;C;;cat=C;%default
+هروقت___MTE	inv	110;Lemma;C;;cat=C;%default
+هرزمان___MTE	inv	110;Lemma;C;;cat=C;%default
+هرچقدر___MTE	inv	110;Lemma;C;;cat=C;%default
+نه اینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+تااینکه___MTE	inv	110;Lemma;C;;cat=C;%default
+تاوقتی___MTE	inv	110;Lemma;C;;cat=C;%default
+طوریکه___MTE	inv	110;Lemma;C;;cat=C;%default
+عموماٌ___MTE	inv	110;Lemma;C;;cat=C;%default
+مانند___MTE	inv	110;Lemma;C;;cat=C;%default
+طی___MTE	inv	110;Lemma;C;;cat=C;%default
+تاآنجاکه___MTE	inv	110;Lemma;C;;cat=C;%default
+آن چنانکه___MTE	inv	110;Lemma;C;;cat=C;%default
+وقت___MTE	inv	110;Lemma;C;;cat=C;%default
+اگر___MTE	inv	110;Lemma;C;;cat=C;%default

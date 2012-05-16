@@ -1,0 +1,335 @@
+به	inv	120;Lemma;prep;;cat=P;%default	# 83860	à	Prép	# 68934/68966=0.99
+در	inv	120;Lemma;prep;;cat=P;%default	# 94266	dans	Prép	# 85516/85716=0.99
+بر	inv	120;Lemma;prep;;cat=P;%default	# 15119	Sur, côté	Prép	# 9561/10556=0.9
+از	inv	120;Lemma;prep;;cat=P;%default	# 75023	de	Prép	# 60692/60694=0.99
+با	inv	120;Lemma;prep;;cat=P;%default	# 53966	avec	Prép	# 27762/27762=1
+بی	inv	120;Lemma;prep;;cat=P;%default	# 5201	sans 	Prép	# 152/178=0.85
+تا	inv	120;Lemma;prep;;cat=P;%default	# 14963	jusque	Prép	# 6445/6847=0.94
+چون	inv	120;Lemma;prep;;cat=P;%default	# wikipedia - comme (formel)	# /1161=0
+جز	inv	120;Lemma;P;;cat=P;%default	# excepté	# /410=0
+به جز	inv	120;Lemma;P;;cat=P;%default	# /69=0
+تا به	inv	100;Lemma;P;;cat=P;%default	# jusqu'à
+بعد از	inv	100;Lemma;P;;cat=P;%default	# après	# 21/21=1
+پیش از	inv	120;Lemma;P;;cat=P;%default	# avant	# /=
+قبل از	inv	120;Lemma;P;;cat=P;%default	# après	# 14/14=1
+بiرون از	inv	100;Lemma;P;;cat=P;%default	# eormis	# /=
+راجع به	inv	120;Lemma;P;;cat=P;%default	# au sujet de	# 59/59=1
+نسبت به	inv	120;Lemma;P;;cat=P;%default	# par rapport à	# /=
+بنا به	inv	100;Lemma;P;;cat=P;%default	# conformément à	# /=
+در پشت	inv	100;Lemma;P;;cat=P;%default	# derrière (locatif)	# /=
+پشت	inv	120;Lemma;P;;cat=P;%default	# derrière (locatif)	# 150/430=0.34
+از پشت	inv	100;Lemma;P;;cat=P;%default	# de derrière (délocatif)	# /=
+به پشت	inv	120;Lemma;P;;cat=P;%default	# derrière (en direction de)	# /=
+به ترف	inv	100;Lemma;P;;cat=P;%default	# vers	# /=
+ترف	inv	100;Lemma;P;;cat=P;%default	# vers	# /=
+از ترف	inv	100;Lemma;P;;cat=P;%default	# du côté de	# /=
+ترف	inv	100;Lemma;P;;cat=P;%default	# du côté de	# /=
+بر روی	inv	100;Lemma;P;;cat=P;%default	# sur	# 1/1=1
+روی	inv	100;Lemma;P;;cat=P;%default	# 3585	sur, surface	# 1056/2471=0.42
+به توسط	inv	100;Lemma;P;;cat=P;%default	# par (l’intermédiaire de)	# /=
+توسط	inv	120;Lemma;P;;cat=P;%default	# 3550	par (l’intermédiaire de)	# 1399/1399=1
+در خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, auprès de, en la possession de (loc)	# /=
+خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, auprès de, en la possession de (loc)	# /385=0
+به خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, auprès de, en la possession de (dir)	# /=
+خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, auprès de, en la possession de (dir)	# /385=0
+به خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, d'auprès de	# /=
+خدمت	inv	100;Lemma;P;;cat=P;%default	# ceez, d'auprès de	# /385=0
+در توی	inv	100;Lemma;P;;cat=P;%default	# à l'intérieur de, dans	# /=
+توی	inv	100;Lemma;P;;cat=P;%default	# à l'intérieur de, dans	# 68/108=0.62
+به توی	inv	100;Lemma;P;;cat=P;%default	# à l'intérieur de, dans (avec l'idée de direction)	# /=
+توی	inv	100;Lemma;P;;cat=P;%default	# à l'intérieur de, dans (avec l'idée de direction)	# 68/108=0.62
+از توی	inv	100;Lemma;P;;cat=P;%default	# de l'intérieur de	# /=
+در زیر	inv	100;Lemma;P;;cat=P;%default	# sous	# /=
+زیر	inv	120;Lemma;P;;cat=P;%default	# sous	# 469/1495=0.31
+به زیر	inv	120;Lemma;P;;cat=P;%default	# sous (avec idée de direction)	# /=
+زیر	inv	120;Lemma;P;;cat=P;%default	# sous (avec idée de direction)	# 469/1495=0.31
+از زیر	inv	100;Lemma;P;;cat=P;%default	# de sous	# /=
+در بالای	inv	120;Lemma;P;;cat=P;%default	# en eaut de, au dessus-de	# /=
+بالای	inv	100;Lemma;P;;cat=P;%default	# en eaut de, au dessus-de	# 58/290=0.2
+به بالای	inv	100;Lemma;P;;cat=P;%default	# en eaut de, au dessus-de (avec l'idée de direction)	# /=
+بالای	inv	100;Lemma;P;;cat=P;%default	# en eaut de, au dessus-de (évec l'idée de direction)	# 58/290=0.2
+از بالای	inv	100;Lemma;P;;cat=P;%default	# d'en eaut de, d'au dessus-de	# /=
+در پیش	inv	100;Lemma;P;;cat=P;%default	# auprès de, ceez, en la possession	# /=
+پیش	inv	120;Lemma;P;;cat=P;%default	# auprès de, ceez, en la possession (avec ezafe)	# 64/2039=0.03 ???
+پیش	inv	120;Lemma;P;;cat=P;%default	# 6145	devant, avant	# 64/2039=0.03 ???
+به پیش	inv	100;Lemma;P;;cat=P;%default	# auprès de, ceez, en la possession (avec l'idée de direction)	# /=
+پیش	inv	120;Lemma;P;;cat=P;%default	# auprès de, ceez, en la possession (avec l'idée de direction)	# 64/2039=0.03
+از پیش	inv	100;Lemma;P;;cat=P;%default	# d'auprès de, ceez	# /=
+همراه	inv	120;Lemma;P;;cat=P;%default	# 2423	en compagnie, avec	Prép	# /1047=0
+در تحت	inv	100;Lemma;P;;cat=P;%default	# sous (sens figuré)	# /=
+تحت	inv	120;Lemma;P;;cat=P;%default	# 2431 sous (sens figuré)	# 706/842=0.83
+بر ضد	inv	100;Lemma;P;;cat=P;%default	# contre	# /=
+ضد	inv	100;Lemma;P;;cat=P;%default	# contre	# /358=0
+بر له	inv	100;Lemma;P;;cat=P;%default	# pour (en justice)	# /=
+له	inv	100;Lemma;P;;cat=P;%default	# pour (en justice)	# 1/15=0.06
+بر له	inv	100;Lemma;P;;cat=P;%default	# pour (en justice)	# /=
+له	inv	100;Lemma;P;;cat=P;%default	# pour (en justice)	# 1/15=0.06
+بر علیه	inv	100;Lemma;P;;cat=P;%default	# contre (en justice)	# /=
+علیه	inv	120;Lemma;P;;cat=P;%default	# 2642 contre (en justice)	# 499/542=0.92
+مثل	inv	120;Lemma;P;;cat=P;%default	# comme	# /679=0
+بمثل	inv	100;Lemma;P;;cat=P;%default	# comme	# /1=0
+بدون	inv	120;Lemma;P;;cat=P;%default	# sans	# 1071/1071=1
+برای	inv	120;Lemma;P;;cat=P;%default	# 26790	pour, à cause de	# 12579/12580=0.99
+از برای	inv	100;Lemma;P;;cat=P;%default	# pour, à cause de	# /=
+واسه	inv	100;Lemma;P;;cat=P;%default	# pour, à cause de (familier)	# 2/2=1
+در کنار	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+در باره	inv	100;Lemma;P;;cat=P;%default	# 87/87=1
+در بارث	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+در برابر	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+در نزد	inv	100;Lemma;P;;cat=P;%default	# 11/11=1
+در پس	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+در خلال	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+در خصوص	inv	100;Lemma;P;;cat=P;%default	# 6/6=1
+در زمینه	inv	100;Lemma;P;;cat=P;%default	# 5/5=1
+در قبال	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+در ضمن	inv	100;Lemma;P;;cat=P;%default	# 4/44=0.09
+در حین	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+به عهده	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+به دنبال	inv	120;Lemma;P;;cat=P;%default	# 1/1=1
+به جای	inv	120;Lemma;P;;cat=P;%default	# 19/19=1
+به جهت	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+به محض	inv	120;Lemma;P;;cat=P;%default	# 10/11=0.9
+به نزد	inv	100;Lemma;P;;cat=P;%default	# 7/7=1
+به نزدش	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+به رغم	inv	120;Lemma;P;;cat=P;%default	# 62/92=0.67
+به وسیله	inv	100;Lemma;P;;cat=P;%default	# 9/9=1
+به وسیلث	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
+به خاطر	inv	120;Lemma;P;;cat=P;%default	# 22/22=1
+به زعم	inv	100;Lemma;P;;cat=P;%default	# 5/5=1
+بر عهده	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+بر اثر	inv	100;Lemma;P;;cat=P;%default	# 25/25=1
+عقب	inv	100;Lemma;P;;cat=P;%default	# 4/100=0.04
+کنار	inv	120;Lemma;P;;cat=P;%default	# 56/693=0.08
+کنارش	inv	100;Lemma;P;;cat=P;%default	# 5/13=0.38
+الی	inv	120;Lemma;P;;cat=P;%default	# 80/91=0.87
+اندر	inv	100;Lemma;P;;cat=P;%default	# 25/27=0.92
+اندرون	inv	100;Lemma;P;;cat=P;%default	# 3/4=0.75
+ازم	inv	100;Lemma;P;;cat=P;%default	# 4/4=1
+ازت	inv	100;Lemma;P;;cat=P;%default	# 1/3=0.33
+ازو	inv	100;Lemma;P;;cat=P;%default	# 2/6=0.33
+ازش	inv	100;Lemma;P;;cat=P;%default	# 6/6=1
+بین	inv	120;Lemma;P;;cat=P;%default	# 1158/2030=0.57
+بیرون	inv	120;Lemma;P;;cat=P;%default	# 11/441=0.02
+بابت	inv	100;Lemma;P;;cat=P;%default	# 11/65=0.16
+باهام	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+باهات	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+بدنبال	inv	100;Lemma;P;;cat=P;%default	# 11/13=0.84
+بدو	inv	100;Lemma;P;;cat=P;%default	# 1/47=0.02
+بدون	inv	120;Lemma;P;;cat=P;%default	# 1071/1071=1
+بهر	inv	100;Lemma;P;;cat=P;%default	# 8/15=0.53
+بجای	inv	100;Lemma;P;;cat=P;%default	# 25/27=0.92
+بلا	inv	100;Lemma;P;;cat=P;%default	# 1/14=0.07
+برعهده	inv	100;Lemma;P;;cat=P;%default	# 4/29=0.13
+برعلیه	inv	120;Lemma;P;;cat=P;%default	# 8/8=1
+برا	inv	100;Lemma;P;;cat=P;%default	# 5/5=1
+برای	inv	120;Lemma;P;;cat=P;%default	# 12579/12580=0.99
+برایم	inv	100;Lemma;P;;cat=P;%default	# 43/43=1
+برایمان	inv	100;Lemma;P;;cat=P;%default	# 14/14=1
+برایت	inv	100;Lemma;P;;cat=P;%default	# 10/10=1
+برایتان	inv	100;Lemma;P;;cat=P;%default	# 33/33=1
+برایش	inv	100;Lemma;P;;cat=P;%default	# 82/82=1
+برایشان	inv	100;Lemma;P;;cat=P;%default	# 29/29=1
+برابر	inv	100;Lemma;P;;cat=P;%default	# 31/1234=0.02
+برات	inv	100;Lemma;P;;cat=P;%default	# 2/6=0.33
+برروی	inv	100;Lemma;P;;cat=P;%default	# 3/3=1
+برون	inv	100;Lemma;P;;cat=P;%default	# 3/19=0.15
+برش	inv	100;Lemma;P;;cat=P;%default	# 3/25=0.12
+بواسطه	inv	100;Lemma;P;;cat=P;%default	# 6/9=0.66
+بوسیله	inv	100;Lemma;P;;cat=P;%default	# 36/40=0.9
+بوسیلث	inv	100;Lemma;P;;cat=P;%default	# 1/6=0.16
+بخاطر	inv	100;Lemma;P;;cat=P;%default	# 20/25=0.8
+داخل	inv	120;Lemma;P;;cat=P;%default	# 86/678=0.12
+دم	inv	120;Lemma;P;;cat=P;%default	# 4/79=0.05
+درین	inv	100;Lemma;P;;cat=P;%default	# 1/21=0.04
+#دربارهٌ	inv	100;Lemma;P;;cat=P;%default	# /=
+#دربارهٌٌ	inv	100;Lemma;P;;cat=P;%default	# /=
+دربارث	inv	100;Lemma;P;;cat=P;%default	# 105/105=1
+درپی	inv	120;Lemma;P;;cat=P;%default	# 4/4=1
+درون	inv	120;Lemma;P;;cat=P;%default	# 79/426=0.18
+درخلال	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+دوروبر	inv	100;Lemma;P;;cat=P;%default	# 1/8=0.12
+فیمابین	inv	100;Lemma;P;;cat=P;%default	# 4/17=0.23
+فاقد	inv	100;Lemma;P;;cat=P;%default	# 109/163=0.66
+فرا	inv	100;Lemma;P;;cat=P;%default	# 5/5=1
+فراروی	inv	100;Lemma;P;;cat=P;%default	# 13/15=0.86
+فراخور	inv	100;Lemma;P;;cat=P;%default	# 1/6=0.16
+فرو	inv	100;Lemma;P;;cat=P;%default	# 3/9=0.33
+جهت	inv	100;Lemma;P;;cat=P;%default	# 348/1312=0.26
+جلو	inv	120;Lemma;P;;cat=P;%default	# 17/170=0.1
+جلوی	inv	100;Lemma;P;;cat=P;%default	# 49/104=0.47
+جلویش	inv	100;Lemma;P;;cat=P;%default	# 1/9=0.11
+جنب	inv	100;Lemma;P;;cat=P;%default	# 7/17=0.41
+جوف	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5
+لای	inv	100;Lemma;P;;cat=P;%default	# 2/17=0.11
+لب	inv	120;Lemma;P;;cat=P;%default	# 3/75=0.04
+لغایت	inv	100;Lemma;P;;cat=P;%default	# 14/14=1
+میان	inv	120;Lemma;P;;cat=P;%default	# 537/1963=0.27
+مابین	inv	120;Lemma;P;;cat=P;%default	# 7/9=0.77
+مادون	inv	100;Lemma;P;;cat=P;%default	# 1/9=0.11
+ماورای	inv	100;Lemma;P;;cat=P;%default	# 3/15=0.2
+ماوراا	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5
+ماقبل	inv	100;Lemma;P;;cat=P;%default	# 10/16=0.62
+مقابل	inv	120;Lemma;P;;cat=P;%default	# 106/908=0.11
+محض	inv	100;Lemma;P;;cat=P;%default	# 34/77=0.44
+نبش	inv	100;Lemma;P;;cat=P;%default	# 3/10=0.3
+نزد	inv	120;Lemma;P;;cat=P;%default	# 125/221=0.56
+نزدیک	inv	120;Lemma;P;;cat=P;%default	# 19/681=0.02
+پیرامون	inv	120;Lemma;P;;cat=P;%default	# 74/197=0.37
+پیشم	inv	100;Lemma;P;;cat=P;%default	# 3/5=0.6
+پهلوی	inv	100;Lemma;P;;cat=P;%default	# 2/145=0.01
+پهلویت	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+را	inv	120;Lemma;P;;cat=P;%default	# 35820/35831=0.99
+راجع	inv	100;Lemma;P;;cat=P;%default	# 40/40=1
+رو	inv	120;Lemma;P;;cat=P;%default	# 77/416=0.18
+روی	inv	100;Lemma;P;;cat=P;%default	# 1056/2471=0.42
+رویاروی	inv	100;Lemma;P;;cat=P;%default	# 1/10=0.1
+رویم	inv	100;Lemma;P;;cat=P;%default	# 1/8=0.12
+رویش	inv	100;Lemma;P;;cat=P;%default	# 6/35=0.17
+روبرو	inv	120;Lemma;P;;cat=P;%default	# 7/221=0.03
+روبروی	inv	100;Lemma;P;;cat=P;%default	# 20/29=0.68
+رودرروی	inv	100;Lemma;P;;cat=P;%default	# 2/12=0.16
+سر	inv	120;Lemma;P;;cat=P;%default	# 17/1341=0.01
+ته	inv	100;Lemma;P;;cat=P;%default	# 1/28=0.03
+تو	inv	120;Lemma;P;;cat=P;%default	# 26/881=0.02
+تویش	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5
+توش	inv	100;Lemma;P;;cat=P;%default	# 1/2=0.5
+تحت	inv	120;Lemma;P;;cat=P;%default	# 706/842=0.83
+وارد	inv	100;Lemma;P;;cat=P;%default	# 167/1106=0.15
+ورای	inv	100;Lemma;P;;cat=P;%default	# 1/12=0.08
+وراْ	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+وز	inv	100;Lemma;P;;cat=P;%default	# 6/14=0.42
+ز	inv	100;Lemma;P;;cat=P;%default	# 142/208=0.68
+زان	inv	100;Lemma;P;;cat=P;%default	# 6/7=0.85
+زو	inv	100;Lemma;P;;cat=P;%default	# 2/5=0.4
+صورتحساب	inv	100;Lemma;P;;cat=P;%default	# 1/14=0.07
+طی	inv	120;Lemma;P;;cat=P;%default	# 550/960=0.57
+ضمن	inv	100;Lemma;P;;cat=P;%default	# 360/557=0.64
+حین	inv	100;Lemma;P;;cat=P;%default	# 1/52=0.01
+حول	inv	120;Lemma;P;;cat=P;%default	# 1/28=0.03
+علی رغم	inv	120;Lemma;P;;cat=P;%default	# 7/64=0.1
+علیه ام	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+برای مان	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+برای شان	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+درباره ی	inv	100;Lemma;P;;cat=P;%default	# 40/40=1
+درباره ات	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+درباره اش	inv	100;Lemma;P;;cat=P;%default	# 7/7=1
+درباره شان	inv	100;Lemma;P;;cat=P;%default	# 2/2=1
+دور تا دور	inv	100;Lemma;P;;cat=P;%default	# 1/4=0.25
+من حیث	inv	100;Lemma;P;;cat=P;%default	# 1/1=1
+روبه روی	inv	100;Lemma;P;;cat=P;%default	# 9/15=0.6
+
+درباره	inv	120;Lemma;P;;cat=P;%default	# 3839	concernant	# 1083/1083=1
+
+براساس	inv	120;Lemma;prep;;cat=prep;%default	# 3527	sur la base de	Locution prépositive
+بر اساس	inv	100;Lemma;prep;;cat=prep;%default	# 3527	sur la base de	Locution prépositive
+همچون	inv	120;Lemma;prep;;cat=prep;%default	# wikipedia comme, tel que (formel)
+
+
+
+
+اطراف	inv	100;Lemma;prep;;cat=prep;%default	# Around
+فراتر	inv	100;Lemma;prep;;cat=prep;%default	# Beyond
+امتداد	inv	100;Lemma;prep;;cat=prep;%default	# Along
+
+
+
+
+
+
+علاوه بر___MTE	inv	110;Lemma;S;;cat=S;%default
+اعم از___MTE	inv	110;Lemma;S;;cat=S;%default
+ازبین___MTE	inv	110;Lemma;S;;cat=S;%default
+ازفرط___MTE	inv	110;Lemma;S;;cat=S;%default
+ازمیان___MTE	inv	110;Lemma;S;;cat=S;%default
+ازسر___MTE	inv	110;Lemma;S;;cat=S;%default
+ازخلال___MTE	inv	110;Lemma;S;;cat=S;%default
+ازقبیل___MTE	inv	110;Lemma;S;;cat=S;%default
+ازطرف___MTE	inv	110;Lemma;S;;cat=S;%default
+ازطریق___MTE	inv	110;Lemma;S;;cat=S;%default
+بعداز___MTE	inv	110;Lemma;S;;cat=S;%default
+با وجود___MTE	inv	110;Lemma;S;;cat=S;%default
+باوجود___MTE	inv	110;Lemma;S;;cat=S;%default
+به  درون___MTE	inv	110;Lemma;S;;cat=S;%default
+به عنوان___MTE	inv	110;Lemma;S;;cat=S;%default
+به اضافه___MTE	inv	110;Lemma;S;;cat=S;%default
+به داخل___MTE	inv	110;Lemma;S;;cat=S;%default
+به دلیل___MTE	inv	110;Lemma;S;;cat=S;%default
+به درون___MTE	inv	110;Lemma;S;;cat=S;%default
+به دور___MTE	inv	110;Lemma;S;;cat=S;%default
+به همراه___MTE	inv	110;Lemma;S;;cat=S;%default
+به کنار___MTE	inv	110;Lemma;S;;cat=S;%default
+به منظور___MTE	inv	110;Lemma;S;;cat=S;%default
+به میان___MTE	inv	110;Lemma;S;;cat=S;%default
+به مثابه___MTE	inv	110;Lemma;S;;cat=S;%default
+به نسبت___MTE	inv	110;Lemma;S;;cat=S;%default
+به غیراز___MTE	inv	110;Lemma;S;;cat=S;%default
+به سبب___MTE	inv	110;Lemma;S;;cat=S;%default
+به سمت___MTE	inv	110;Lemma;S;;cat=S;%default
+به سراغ___MTE	inv	110;Lemma;S;;cat=S;%default
+به تبع___MTE	inv	110;Lemma;S;;cat=S;%default
+به طرف___MTE	inv	110;Lemma;S;;cat=S;%default
+بنابه___MTE	inv	110;Lemma;S;;cat=S;%default
+بنابر___MTE	inv	110;Lemma;S;;cat=S;%default
+برفراز___MTE	inv	110;Lemma;S;;cat=S;%default
+برگرد___MTE	inv	110;Lemma;S;;cat=S;%default
+برسر___MTE	inv	110;Lemma;S;;cat=S;%default
+برخلاف___MTE	inv	110;Lemma;S;;cat=S;%default
+برحسب___MTE	inv	110;Lemma;S;;cat=S;%default
+برطبق___MTE	inv	110;Lemma;S;;cat=S;%default
+برضد___MTE	inv	110;Lemma;S;;cat=S;%default
+درعرض___MTE	inv	110;Lemma;S;;cat=S;%default
+درعین___MTE	inv	110;Lemma;S;;cat=S;%default
+دراثر___MTE	inv	110;Lemma;S;;cat=S;%default
+دراطراف___MTE	inv	110;Lemma;S;;cat=S;%default
+دربین___MTE	inv	110;Lemma;S;;cat=S;%default
+درداخل___MTE	inv	110;Lemma;S;;cat=S;%default
+دردرون___MTE	inv	110;Lemma;S;;cat=S;%default
+درکنار___MTE	inv	110;Lemma;S;;cat=S;%default
+درمورد___MTE	inv	110;Lemma;S;;cat=S;%default
+درمیان___MTE	inv	110;Lemma;S;;cat=S;%default
+درمقابل___MTE	inv	110;Lemma;S;;cat=S;%default
+درپایین___MTE	inv	110;Lemma;S;;cat=S;%default
+درپشت___MTE	inv	110;Lemma;S;;cat=S;%default
+دررابطه با___MTE	inv	110;Lemma;S;;cat=S;%default
+درزیر___MTE	inv	110;Lemma;S;;cat=S;%default
+درصورت___MTE	inv	110;Lemma;S;;cat=S;%default
+درطی___MTE	inv	110;Lemma;S;;cat=S;%default
+درظرف___MTE	inv	110;Lemma;S;;cat=S;%default
+همراه با___MTE	inv	110;Lemma;S;;cat=S;%default
+گذشته از___MTE	inv	110;Lemma;S;;cat=S;%default
+مبنی بر___MTE	inv	110;Lemma;S;;cat=S;%default
+پس از___MTE	inv	110;Lemma;S;;cat=S;%default
+غیراز___MTE	inv	110;Lemma;S;;cat=S;%default
+خارج از___MTE	inv	110;Lemma;S;;cat=S;%default
+باز___MTE	inv	110;Lemma;S;;cat=S;%default
+بدان___MTE	inv	110;Lemma;S;;cat=S;%default
+بدین___MTE	inv	110;Lemma;S;;cat=S;%default
+دنبال___MTE	inv	110;Lemma;S;;cat=S;%default
+در وسط___MTE	inv	110;Lemma;S;;cat=S;%default
+دور___MTE	inv	110;Lemma;S;;cat=S;%default
+دخمه___MTE	inv	110;Lemma;S;;cat=S;%default
+همانند___MTE	inv	110;Lemma;S;;cat=S;%default
+جزو___MTE	inv	110;Lemma;S;;cat=S;%default
+مال___MTE	inv	110;Lemma;S;;cat=S;%default
+مانند___MTE	inv	110;Lemma;S;;cat=S;%default
+مد___MTE	inv	110;Lemma;S;;cat=S;%default
+مگر___MTE	inv	110;Lemma;S;;cat=S;%default
+نظیر___MTE	inv	110;Lemma;S;;cat=S;%default
+پایین___MTE	inv	110;Lemma;S;;cat=S;%default
+راه پله___MTE	inv	110;Lemma;S;;cat=S;%default
+تانک___MTE	inv	110;Lemma;S;;cat=S;%default
+وسط___MTE	inv	110;Lemma;S;;cat=S;%default
+قبل___MTE	inv	110;Lemma;S;;cat=S;%default
+شبیه___MTE	inv	110;Lemma;S;;cat=S;%default
+طرف___MTE	inv	110;Lemma;S;;cat=S;%default
+ظرف___MTE	inv	110;Lemma;S;;cat=S;%default
+پهلو___MTE	inv	110;Lemma;S;;cat=S;%default
+دربرابر___MTE	inv	110;Lemma;S;;cat=S;%default
+طبق___MTE	inv	110;Lemma;S;;cat=S;%default
+ازجمله___MTE	inv	110;Lemma;S;;cat=S;%default
+درجلو___MTE	inv	110;Lemma;S;;cat=S;%default
+دروسط___MTE	inv	110;Lemma;S;;cat=S;%default
+ازجانب___MTE	inv	110;Lemma;S;;cat=S;%default
+ازلحاظ___MTE	inv	110;Lemma;S;;cat=S;%default
+براثر___MTE	inv	110;Lemma;S;;cat=S;%default
+پشت سر___MTE	inv	110;Lemma;S;;cat=S;%default

@@ -1,0 +1,202 @@
+کدامیک	inv	100;Lemma;NP;;cat=NP;%default	# 1/8=0.12
+یکبار	inv	100;Lemma;NP;;cat=NP;%default	# 8/8=1
+اینکار	inv	100;Lemma;NP;;cat=NP;%default	# 2/2=1
+اینگونه	inv	100;Lemma;NP;;cat=NP;%default	# 1/50=0.02
+اینجا	inv	100;Lemma;NP;;cat=NP;%default	# 13/303=0.04
+اینطور	inv	100;Lemma;NP;;cat=NP;%default	# 1/14=0.07
+درهم	inv	100;Lemma;NP;;cat=NP;%default	# 1/16=0.06
+هیچیک	inv	100;Lemma;NP;;cat=NP;%default	# 2/38=0.05
+همینگونه	inv	100;Lemma;NP;;cat=NP;%default	# 1/3=0.33
+همانگونه	inv	100;Lemma;NP;;cat=NP;%default	# 6/13=0.46
+همانطور	inv	100;Lemma;NP;;cat=NP;%default	# 3/6=0.5
+هرکدام	inv	100;Lemma;NP;;cat=NP;%default	# 2/5=0.4
+آنکس	inv	100;Lemma;NP;;cat=NP;%default	# 1/4=0.25
+آنجا	inv	100;Lemma;NP;;cat=NP;%default	# 6/361=0.01
+آنطور	inv	100;Lemma;NP;;cat=NP;%default	# 1/3=0.33
+این جا	inv	100;Lemma;NP;;cat=NP;%default	# 1/14=0.07
+
+تهران	N2	100;Lemma;N;;cat=N;%default	#??
+آمریکا	N2	100;Lemma;N;;cat=N;%default	#??
+آسیا	N2	100;Lemma;N;;cat=N;%default	#??
+پاکستان	N2	100;Lemma;N;;cat=N;%default	#??
+افغانستان	N2	100;Lemma;N;;cat=N;%default	#??
+کردستان	N2	100;Lemma;N;;cat=N;%default	#??
+انگلستان	N2	100;Lemma;N;;cat=N;%default	#??
+قزاقستان	N2	100;Lemma;N;;cat=N;%default	#??
+خوزستان	N2	100;Lemma;N;;cat=N;%default	#??
+لرستان	N2	100;Lemma;N;;cat=N;%default	#??
+سیدنی	N2	100;Lemma;N;;cat=N;%default	#??
+اخبار	N2	100;Lemma;N;;cat=N;%default	#??
+سیستان	N2	100;Lemma;N;;cat=N;%default	#??
+اوهایو	N2	100;Lemma;N;;cat=N;%default	#??
+آذربایجان	N2	100;Lemma;N;;cat=N;%default	#??
+لبنان	N2	100;Lemma;N;;cat=N;%default	#??
+عربستان	N2	100;Lemma;N;;cat=N;%default	#??
+گلستان	N2	100;Lemma;N;;cat=N;%default	#??
+لهستان	N2	100;Lemma;N;;cat=N;%default	#??
+ترکمنستان	N2	100;Lemma;N;;cat=N;%default	#??
+آنکارا	N2	100;Lemma;N;;cat=N;%default	#??
+بلوچستان	N2	100;Lemma;N;;cat=N;%default	#??
+هندوستان	N2	100;Lemma;N;;cat=N;%default	#??
+ارمنستان	N2	100;Lemma;N;;cat=N;%default	#??
+گرجستان	N2	100;Lemma;N;;cat=N;%default	#??
+لندن	N2	100;Lemma;N;;cat=N;%default	#??
+روسیh	N2	100;Lemma;N;;cat=N;%default	#??
+اروپا	N2	100;Lemma;N;;cat=N;%default	#??
+خرداد	N2	100;Lemma;N;;cat=N;%default	#??
+ترکیh	N2	100;Lemma;N;;cat=N;%default	#??
+اصفhان	N2	100;Lemma;N;;cat=N;%default	#??
+ملل	N2	100;Lemma;N;;cat=N;%default	#??
+ایتالیا	N2	100;Lemma;N;;cat=N;%default	#??
+ژاپن	N2	100;Lemma;N;;cat=N;%default	#??
+عراق	N2	100;Lemma;N;;cat=N;%default	#??
+خمینی	N2	100;Lemma;N;;cat=N;%default	#??
+اسپانیا	N2	100;Lemma;N;;cat=N;%default	#??
+واشنگتن	N2	100;Lemma;N;;cat=N;%default	#??
+hاشمی	N2	100;Lemma;N;;cat=N;%default	#??
+نیویورک	N2	100;Lemma;N;;cat=N;%default	#??
+مصر	N2	100;Lemma;N;;cat=N;%default	#??
+شیراز	N2	100;Lemma;N;;cat=N;%default	#??
+فلسطین	N2	100;Lemma;N;;cat=N;%default	#??
+تبریز	N2	100;Lemma;N;;cat=N;%default	#??
+خراسان	N2	100;Lemma;N;;cat=N;%default	#??
+ایرانیان 	N2	100;Lemma;N;;cat=N;%default	#=ayran?
+دریای خزر	N2	100;Lemma;N;;cat=N;%default	#??
+یزید	N2	100;Lemma;N;;cat=N;%default	#??
+اسراایل	N2	100;Lemma;N;;cat=N;%default	#??
+فارس	N2	100;Lemma;N;;cat=N;%default	#??
+پاریس	N2	100;Lemma;N;;cat=N;%default	#??
+رضا	N2	100;Lemma;N;;cat=N;%default	#??
+گیلان	N2	100;Lemma;N;;cat=N;%default	#??
+کویت	N2	100;Lemma;N;;cat=N;%default	#??
+یزد	N2	100;Lemma;N;;cat=N;%default	#??
+یونان	N2	100;Lemma;N;;cat=N;%default	#??
+اردبیل	N2	100;Lemma;N;;cat=N;%default	#??
+hمدان	N2	100;Lemma;N;;cat=N;%default	#??
+مازندران	N2	100;Lemma;N;;cat=N;%default	#??
+استرالیا	N2	100;Lemma;N;;cat=N;%default	#??
+اتریش	N2	100;Lemma;N;;cat=N;%default	#??
+کلینتون	N2	100;Lemma;N;;cat=N;%default	#??
+hلند	N2	100;Lemma;N;;cat=N;%default	#??
+کانادا	N2	100;Lemma;N;;cat=N;%default	#??
+ابراhیم	N2	100;Lemma;N;;cat=N;%default	#??
+جhاد	N2	100;Lemma;N;;cat=N;%default	#??
+کرمانشاh	N2	100;Lemma;N;;cat=N;%default	#??
+مدینh	N2	100;Lemma;N;;cat=N;%default	#??
+خاورمیانh	N2	100;Lemma;N;;cat=N;%default	#??
+رفسنجانی	N2	100;Lemma;N;;cat=N;%default	#??
+آید	N2	100;Lemma;N;;cat=N;%default	#??
+پکن	N2	100;Lemma;N;;cat=N;%default	#??
+مرداد	N2	100;Lemma;N;;cat=N;%default	#??
+برلین	N2	100;Lemma;N;;cat=N;%default	#??
+اردن	N2	100;Lemma;N;;cat=N;%default	#??
+تیرماh	N2	100;Lemma;N;;cat=N;%default	#??
+موسوی	N2	100;Lemma;N;;cat=N;%default	#??
+سمنان	N2	100;Lemma;N;;cat=N;%default	#??
+اشیاا	N2	100;Lemma;N;;cat=N;%default	#??
+قزوین	N2	100;Lemma;N;;cat=N;%default	#??
+اسامی	N2	100;Lemma;N;;cat=N;%default	#??
+ارومیh	N2	100;Lemma;N;;cat=N;%default	#??
+شhریور	N2	100;Lemma;N;;cat=N;%default	#??
+ناتو	N2	100;Lemma;N;;cat=N;%default	#??
+عرفات	N2	100;Lemma;N;;cat=N;%default	#??
+خرمشhر	N2	100;Lemma;N;;cat=N;%default	#??
+مادرید	N2	100;Lemma;N;;cat=N;%default	#??
+بلژیک	N2	100;Lemma;N;;cat=N;%default	#??
+بوشhر	N2	100;Lemma;N;;cat=N;%default	#??
+بغداد	N2	100;Lemma;N;;cat=N;%default	#??
+مکh	N2	100;Lemma;N;;cat=N;%default	#??
+زنجان	N2	100;Lemma;N;;cat=N;%default	#??
+پرتغال	N2	100;Lemma;N;;cat=N;%default	#??
+ایفا	N2	100;Lemma;N;;cat=N;%default	#??
+خرازی	N2	100;Lemma;N;;cat=N;%default	#??
+برزیل	N2	100;Lemma;N;;cat=N;%default	#??
+ایدز	N2	100;Lemma;N;;cat=N;%default	#??
+اوپک	N2	100;Lemma;N;;cat=N;%default	#??
+توکیو	N2	100;Lemma;N;;cat=N;%default	#??
+داریوش	N2	100;Lemma;N;;cat=N;%default	#??
+باراک	N2	100;Lemma;N;;cat=N;%default	#??
+انصاری	N2	100;Lemma;N;;cat=N;%default	#??	???
+گرگان	N2	100;Lemma;N;;cat=N;%default	#??
+امریکا	N2	100;Lemma;N;;cat=N;%default	#??
+کرج	N2	100;Lemma;N;;cat=N;%default	#??
+ایلام	N2	100;Lemma;N;;cat=N;%default	#??
+علیرضا	N2	100;Lemma;N;;cat=N;%default	#??
+مصطفی	N2	100;Lemma;N;;cat=N;%default	#??
+کاشان	N2	100;Lemma;N;;cat=N;%default	#??
+مالزی	N2	100;Lemma;N;;cat=N;%default	#??
+پوند	N2	100;Lemma;N;;cat=N;%default	#??
+کوفh	N2	100;Lemma;N;;cat=N;%default	#??
+مرتضی	N2	100;Lemma;N;;cat=N;%default	#??
+اراک	N2	100;Lemma;N;;cat=N;%default	#??
+البرز	N2	100;Lemma;N;;cat=N;%default	#??
+تایوان	N2	100;Lemma;N;;cat=N;%default	#??
+تایلند	N2	100;Lemma;N;;cat=N;%default	#??
+اردیبhشت	N2	100;Lemma;N;;cat=N;%default	#??
+امارات	N2	100;Lemma;N;;cat=N;%default	#??
+مکزیک	N2	100;Lemma;N;;cat=N;%default	#??
+فاطمh	N2	100;Lemma;N;;cat=N;%default	#??
+آدم	N2	100;Lemma;N;;cat=N;%default	#adam
+
+
+ایرانی	N2	100;Lemma;N;;cat=N;%default	#??	--> NP ou N?
+فلسطینی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? (palestinian)
+آمریکایی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+روس	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+اسراایلی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+ژاپنی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+انگلیسی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+فرانسوی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+افغانی	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+
+
+ایرنا	N2	100;Lemma;N;;cat=N;%default	# IRNA
+اروپا	N2	100;Lemma;N;;cat=N;%default	# Europe
+خرداد	N2	100;Lemma;N;;cat=N;%default	# Khordad
+ملل	N2	100;Lemma;N;;cat=N;%default	# UN
+آسیا	N2	100;Lemma;N;;cat=N;%default	# Asia
+تبریز	N2	100;Lemma;N;;cat=N;%default	# Tabriz
+خراسان	N2	100;Lemma;N;;cat=N;%default	# Khorasan
+اسراایل	N2	100;Lemma;N;;cat=N;%default	# Israël
+مذاکرات	N2	100;Lemma;N;;cat=N;%default	# U.S.
+یزد	N2	100;Lemma;N;;cat=N;%default	# Yazd
+انگلستان	N2	100;Lemma;N;;cat=N;%default	# England
+کردستان	N2	100;Lemma;N;;cat=N;%default	# Kurdistan
+خوزستان	N2	100;Lemma;N;;cat=N;%default	# Khuzestan
+مازندران	N2	100;Lemma;N;;cat=N;%default	# Mazandaran
+لرستان	N2	100;Lemma;N;;cat=N;%default	# Lorestan
+خاورمیانه	N2	100;Lemma;N;;cat=N;%default	# Middle East
+مرداد	N2	100;Lemma;N;;cat=N;%default	# Persian month Mordad
+سمنان	N2	100;Lemma;N;;cat=N;%default	# Semnan
+تیرماه	N2	100;Lemma;N;;cat=N;%default	# July
+قزوین	N2	100;Lemma;N;;cat=N;%default	# Qazvin
+ایفا	N2	100;Lemma;N;;cat=N;%default	# IFA
+عرفات	N2	100;Lemma;N;;cat=N;%default	# Arafat
+ناتو	N2	100;Lemma;N;;cat=N;%default	# NATO
+تایمز	N2	100;Lemma;N;;cat=N;%default	# Times (NP?)
+آسیا	N2	100;Lemma;N;;cat=N;%default	# Asia
+آفریقا	N2	100;Lemma;N;;cat=N;%default	# Africa
+خرازی	N2	100;Lemma;N;;cat=N;%default	# Kharrazi
+کرج	N2	100;Lemma;N;;cat=N;%default	# Karaj
+گرگان	N2	100;Lemma;N;;cat=N;%default	# Gorgan
+امریکا	N2	100;Lemma;N;;cat=N;%default	# America
+بلوچستان	N2	100;Lemma;N;;cat=N;%default	# Baluchistan
+سوایس	N2	100;Lemma;N;;cat=N;%default	# Svays (??)
+کاشان	N2	100;Lemma;N;;cat=N;%default	# Kashan
+اراک	N2	100;Lemma;N;;cat=N;%default	# Arak
+علاام	N2	100;Lemma;N;;cat=N;%default	# Laam (??)
+پوند	N2	100;Lemma;N;;cat=N;%default	# Gyahanpvnd (??)
+مساولین	N2	100;Lemma;N;;cat=N;%default	# Msavlyn (??)
+البرز	N2	100;Lemma;N;;cat=N;%default	# Alborz
+اکتبر	N2	100;Lemma;N;;cat=N;%default	# October
+کوالالامپور	N2	100;Lemma;N;;cat=N;%default	# Kuala Lumpur
+معاویه	N2	100;Lemma;N;;cat=N;%default	# Al
+
+
+
+
+
+
+
+
+
