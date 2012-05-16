@@ -1,0 +1,587 @@
+afsws	ADV	100;Lemma;ADV;;cat=ADV;%default	# 9/15=0.6
+anša°alle	ADV	100;Lemma;ADV;;cat=ADV;%default	# 58/59=0.98
+#anšáalle	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+awnja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/6=0.83
+barea	ADV	100;Lemma;ADV;;cat=ADV;%default	# 34/159=0.21
+baz	ADV	120;Lemma;ADV;;cat=ADV;%default	# de nouveau (!= adjectif "ouvert")	# 265/622=0.42
+bazem	ADV	100;Lemma;ADV;;cat=ADV;%default	# 35/35=1
+bdanja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+bdbxtane	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+bkrat	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+byrwn	ADV	120;Lemma;ADV;;cat=ADV;%default	# 121/441=0.27 ADJ aussi
+daama˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 18/18=1
+df'ta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 2/2=1
+dgrbare	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+dryq	ADV	100;Lemma;ADV;;cat=ADV;%default	# 17/43=0.39
+dryqa	ADV	100;Lemma;ADV;;cat=ADV;%default	# 6/6=1
+dwbare	ADV	120;Lemma;ADV;;cat=ADV;%default	# 188/227=0.82
+dwbarç	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+#dyge	ADV	100;Lemma;ADV;;cat=ADV;%default	# 8/15=0.53 : familier (normalement "dygar")
+dygar	ADV	100;Lemma;ADV;;cat=ADV;%default
+ey	ADV	120;Lemma;ADV;;cat=ADV;%default	# 6/22=0.27
+jlw	ADV	120;Lemma;ADV;;cat=ADV;%default	# 31/170=0.18
+kanja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/2=0.5
+kaš	ADV	100;Lemma;ADV;;cat=ADV;%default	# 14/16=0.87
+knar	ADV	120;Lemma;ADV;;cat=ADV;%default	# 20/693=0.02
+krara˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+lţfa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 18/18=1
+mjdda	ADV	100;Lemma;ADV;;cat=ADV;%default	# 19/19=1
+mjdda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 99/99=1
+mkrr	ADV	100;Lemma;ADV;;cat=ADV;%default	# 20/86=0.23
+mkrra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/5=1
+mrtb	ADV	120;Lemma;ADV;;cat=ADV;%default	# 17/61=0.27
+mrtba˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+mtasfane	ADV	100;Lemma;ADV;;cat=ADV;%default	# 103/103=1
+mtásfane	ADV	120;Lemma;ADV;;cat=ADV;%default	# 191/191=1
+ne	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1016/1301=0.78
+payyn	ADV	120;Lemma;ADV;;cat=ADV;%default	# 30/270=0.11
+pywste	ADV	120;Lemma;ADV;;cat=ADV;%default	# 37/119=0.31
+tnea	ADV	120;Lemma;ADV;;cat=ADV;%default	# 861/1308=0.65
+way	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/27=0.03
+če	ADV	120;Lemma;ADV;;cat=ADV;%default	# 355/1970=0.18
+čndbare	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/3=0.33
+šgfta	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+ħyf	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/7=0.14
+yk yk	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/2=0.5
+yky yky	ADV	100;Lemma;ADV;;cat=ADV;%default	# 8/8=1
+ay kaš	ADV	100;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+ayn ja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 9/14=0.64
+an ša°alle	ADV	100;Lemma;ADV;;cat=ADV;%default	# 35/35=1
+an šáalle	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/4=1
+az nw	ADV	100;Lemma;ADV;;cat=ADV;%default	# 12/12=1
+barea w barea	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+baz em	ADV	100;Lemma;ADV;;cat=ADV;%default	# 99/99=1
+be krat	ADV	100;Lemma;ADV;;cat=ADV;%default	# 7/7=1
+be be be	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+be df'at	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+dste dste	ADV	100;Lemma;ADV;;cat=ADV;%default	# 5/7=0.71
+eme ja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 3/4=0.75
+m' alasf	ADV	100;Lemma;ADV;;cat=ADV;%default	# 6/7=0.85
+py drpy	ADV	100;Lemma;ADV;;cat=ADV;%default	# 4/38=0.1
+payyn tr	ADV	100;Lemma;ADV;;cat=ADV;%default	# 2/41=0.04
+se bare	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+tk tk	ADV	100;Lemma;ADV;;cat=ADV;%default	# 7/24=0.29
+ān ja	ADV	100;Lemma;ADV;;cat=ADV;%default	# 13/24=0.54
+če 'jb	ADV	100;Lemma;ADV;;cat=ADV;%default	# 1/1=1
+
+čnan	ADV	120;Lemma;PRO;;cat=PRO;%default	# 
+čnyn	ADV	120;Lemma;PRO;;cat=PRO;%default	# 
+ānčnan	ADV	100;Lemma;PRO;;cat=PRO;%default	# 
+ānčnyn	ADV	100;Lemma;PRO;;cat=PRO;%default	# 
+emčnan	ADV	120;Lemma;PRO;;cat=PRO;%default	# 
+emčnyn	ADV	120;Lemma;PRO;;cat=PRO;%default	# fam emčyn
+čndyn	ADV	100;Lemma;pri;;cat=pri;%default	# 4027	combien	Pronom interrogatif /Déterminant	# 
+čndan	ADV	120;Lemma;pri;;cat=pri;%default	# combien
+
+aynja	ADV	100;Lemma;ADV;;cat=ADV;%default	# ici	171/303=0.56
+emynja	ADV	100;Lemma;ADV;;cat=ADV;%default	# ici-même
+ānja	ADV	100;Lemma;ADV;;cat=ADV;%default	# là	179/361=0.49
+ānjay	ADV	100;Lemma;ADV;;cat=ADV;%default	# là-bas	# 1/1=1
+ānjayy	ADV	100;Lemma;ADV;;cat=ADV;%default	# de là-bas	# 4/14=0.28
+emanja	ADV	120;Lemma;ADV;;cat=ADV;%default	# là-même	5/10=0.5
+ānwŕt	ADV	100;Lemma;ADV;;cat=ADV;%default	# alors, et puis
+aynŕdr	ADV	100;Lemma;ADV;;cat=ADV;%default	# autant, tant que ceci
+ānŕdr	ADV	120;Lemma;ADV;;cat=ADV;%default	# autant, tant que cela
+aynţwr	ADV	120;Lemma;ADV;;cat=ADV;%default	# ainsi, de cette manière-ci
+ānţwr	ADV	100;Lemma;ADV;;cat=ADV;%default	# ainsi, de cette manière-là
+
+byš	inv	120;Lemma;ADV;;cat=ADV;%default	# plus
+pyš	inv	120;Lemma;ADV;;cat=ADV;%default	# avant
+emčwn	ADV	100;Lemma;ADV;;cat=ADV;%default	# wikipedia comme, tel que (formel)
+
+
+
+šayd	ADV	120;Lemma;ADV;;cat=ADV;%default	# perhaps
+amrwz	ADV	120;Lemma;ADV;;cat=ADV;%default	# today
+aknwn	ADV	120;Lemma;ADV;;cat=ADV;%default	# now
+dyrwz	ADV	120;Lemma;ADV;;cat=ADV;%default	# yesterday
+amsal	ADV	120;Lemma;ADV;;cat=ADV;%default	# This year
+šayd	ADV	120;Lemma;ADV;;cat=ADV;%default	# Perhaps
+čgwne	ADV	120;Lemma;ADV;;cat=ADV;%default	# How
+emware	ADV	120;Lemma;ADV;;cat=ADV;%default	# Always
+kamla˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# Quite
+ergz	ADV	120;Lemma;ADV;;cat=ADV;%default	# Never
+aynk	ADV	100;Lemma;ADV;;cat=ADV;%default	# Now
+awayl	ADV	100;Lemma;ADV;;cat=ADV;%default	# Early
+amrwze	ADV	120;Lemma;ADV;;cat=ADV;%default	# Today
+čgwngy	ADV	100;Lemma;ADV;;cat=ADV;%default	# How
+axyra˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# Recently
+frda	ADV	120;Lemma;ADV;;cat=ADV;%default	# Tomorrow
+ałtmala˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# Probably
+şrfa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# Only
+awŕat	ADV	100;Lemma;ADV;;cat=ADV;%default	# Often
+ŕbla˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# Already
+kamla	ADV	100;Lemma;ADV;;cat=ADV;%default	# Quite
+blafaşle	ADV	120;Lemma;ADV;;cat=ADV;%default	# Immediately
+tdryj	ADV	100;Lemma;ADV;;cat=ADV;%default	# Gradually
+łtma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# Sure
+żaera˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# Apparently
+
+
+
+aşla˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# No
+'mdta˝	ADV	120;Lemma;ADV;;cat=ADV;%default	#
+'mla˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+dŕyŕa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+nsbta˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+aşwla˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+asasa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+rsma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'mwma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mslma˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+qalba˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+mstŕyma˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+f'la˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+šdyda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+šxşa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+atfaŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ŕa'dta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mštrka˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mţmana˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+fwra˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+şrałta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'yna˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mt'aŕba˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+şryła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+lzwma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+anşafa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+alzama˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+akçra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+tmama˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+tlwyła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'myŕa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+sabŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ŕanwna˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mwŕta˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+aşţlała˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mtŕabla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+jda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+tdryja˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+đyla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+đata˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+ŕwya˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+frźa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+mšxşa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mnłşra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'mda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+'lna˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+abda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+źrwrta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ŕera˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+rása˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ntyjta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mźafa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mţlŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+múkda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+gaea˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+twáma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+tşryła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+trjyła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+sewa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ŕlba˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+nŕda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+načara˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mstŕla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mnţŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+łźwra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+łŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+axlaŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ajmala˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+tşadfa˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+tfşyla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+šfaea˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'ŕla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mxtşra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mtwalya˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mtfŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+jsma˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+jbra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'jalta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+fţrta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+dayma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+aštbaea˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+abtdaaa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+xlŕta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+wła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+wjdana˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+wb'da˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+túama˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+t'mda˝	ADV	120;Lemma;ADV;;cat=ADV;%default	# 
+tłŕyŕa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ţbyt'a˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+t'bda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+rwła˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+nżmyftwra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+nfya˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ndrta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mtdrja˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mstmra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mşra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mntażra˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+m'na˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+młtmla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mjana˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+mfşla˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+łkma˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+lfa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+la˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ktba˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+jzaa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+jsarta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+frda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+#_çanya˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+#_çalça˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+bdwa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ba˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ayźa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+axtşara˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+a'traźa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ałtyaţa˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+akyda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+ajbara˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+'adta˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+açbata˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+abtda˝	ADV	100;Lemma;ADV;;cat=ADV;%default	# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'almane___MTE	ADV	110;Lemma;R;;cat=R;%default
+'aŕbt___MTE	ADV	110;Lemma;R;;cat=R;%default
+'jwlane___MTE	ADV	110;Lemma;R;;cat=R;%default
+'lawe brayn___MTE	ADV	110;Lemma;R;;cat=R;%default
+'ryan___MTE	ADV	110;Lemma;R;;cat=R;%default
+'ŕb___MTE	ADV	110;Lemma;R;;cat=R;%default
+'şr___MTE	ADV	110;Lemma;R;;cat=R;%default
+abtda___MTE	ADV	110;Lemma;R;;cat=R;%default
+alan___MTE	ADV	110;Lemma;R;;cat=R;%default
+albte___MTE	ADV	110;Lemma;R;;cat=R;%default
+andky___MTE	ADV	110;Lemma;R;;cat=R;%default
+angar___MTE	ADV	110;Lemma;R;;cat=R;%default
+aqlb___MTE	ADV	110;Lemma;R;;cat=R;%default
+ayn ŕdr___MTE	ADV	110;Lemma;R;;cat=R;%default
+ayn ţwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+aynčnyn___MTE	ADV	110;Lemma;R;;cat=R;%default
+azŕrarm'lwm___MTE	ADV	110;Lemma;R;;cat=R;%default
+aħmŕane___MTE	ADV	110;Lemma;R;;cat=R;%default
+aħtmala˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+aštbae___MTE	ADV	110;Lemma;R;;cat=R;%default
+b'da˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+b'źa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+ba ayn ħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+baayn eme___MTE	ADV	110;Lemma;R;;cat=R;%default
+baayn wjwd___MTE	ADV	110;Lemma;R;;cat=R;%default
+baayn ħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+balaxre___MTE	ADV	110;Lemma;R;;cat=R;%default
+banzakt___MTE	ADV	110;Lemma;R;;cat=R;%default
+bawjwdayn___MTE	ADV	110;Lemma;R;;cat=R;%default
+bdan gwne___MTE	ADV	110;Lemma;R;;cat=R;%default
+bdxţ___MTE	ADV	110;Lemma;R;;cat=R;%default
+bdyn trtyb___MTE	ADV	110;Lemma;R;;cat=R;%default
+be 'lawe___MTE	ADV	110;Lemma;R;;cat=R;%default
+be ayn trtyb___MTE	ADV	110;Lemma;R;;cat=R;%default
+be ayn ţryŕ___MTE	ADV	110;Lemma;R;;cat=R;%default
+be emyn jet___MTE	ADV	110;Lemma;R;;cat=R;%default
+be emyn trtyb___MTE	ADV	110;Lemma;R;;cat=R;%default
+be erħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+be eyč wje___MTE	ADV	110;Lemma;R;;cat=R;%default
+be ndrt___MTE	ADV	110;Lemma;R;;cat=R;%default
+be wyže___MTE	ADV	110;Lemma;R;;cat=R;%default
+be ţwrkly___MTE	ADV	110;Lemma;R;;cat=R;%default
+berħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+bet zde___MTE	ADV	110;Lemma;R;;cat=R;%default
+bkr___MTE	ADV	110;Lemma;R;;cat=R;%default
+blnd blnd___MTE	ADV	110;Lemma;R;;cat=R;%default
+bnabrayn___MTE	ADV	110;Lemma;R;;cat=R;%default
+br'ks___MTE	ADV	110;Lemma;R;;cat=R;%default
+brabr___MTE	ADV	110;Lemma;R;;cat=R;%default
+bradrwar___MTE	ADV	110;Lemma;R;;cat=R;%default
+brene___MTE	ADV	110;Lemma;R;;cat=R;%default
+bryde bryde___MTE	ADV	110;Lemma;R;;cat=R;%default
+bs___MTE	ADV	110;Lemma;R;;cat=R;%default
+bsyar___MTE	ADV	110;Lemma;R;;cat=R;%default
+by axtyar___MTE	ADV	110;Lemma;R;;cat=R;%default
+by dlyl___MTE	ADV	110;Lemma;R;;cat=R;%default
+by drng___MTE	ADV	110;Lemma;R;;cat=R;%default
+by ewa___MTE	ADV	110;Lemma;R;;cat=R;%default
+by gman___MTE	ADV	110;Lemma;R;;cat=R;%default
+by jwab___MTE	ADV	110;Lemma;R;;cat=R;%default
+by mħaba___MTE	ADV	110;Lemma;R;;cat=R;%default
+by mŕdme___MTE	ADV	110;Lemma;R;;cat=R;%default
+by neayt___MTE	ADV	110;Lemma;R;;cat=R;%default
+by twje___MTE	ADV	110;Lemma;R;;cat=R;%default
+by wŕfe___MTE	ADV	110;Lemma;R;;cat=R;%default
+by xyal___MTE	ADV	110;Lemma;R;;cat=R;%default
+by ħrkt___MTE	ADV	110;Lemma;R;;cat=R;%default
+by şda___MTE	ADV	110;Lemma;R;;cat=R;%default
+by šk___MTE	ADV	110;Lemma;R;;cat=R;%default
+byewde___MTE	ADV	110;Lemma;R;;cat=R;%default
+byst wčearsa'te___MTE	ADV	110;Lemma;R;;cat=R;%default
+dawţlbane___MTE	ADV	110;Lemma;R;;cat=R;%default
+daym___MTE	ADV	110;Lemma;R;;cat=R;%default
+da´m___MTE	ADV	110;Lemma;R;;cat=R;%default
+da´ma˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+dr'yn ħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+drayn şwrt___MTE	ADV	110;Lemma;R;;cat=R;%default
+draz___MTE	ADV	110;Lemma;R;;cat=R;%default
+drbst___MTE	ADV	110;Lemma;R;;cat=R;%default
+drst___MTE	ADV	110;Lemma;R;;cat=R;%default
+drān şwrt___MTE	ADV	110;Lemma;R;;cat=R;%default
+drħal ħaźr___MTE	ADV	110;Lemma;R;;cat=R;%default
+drźmn___MTE	ADV	110;Lemma;R;;cat=R;%default
+dst km___MTE	ADV	110;Lemma;R;;cat=R;%default
+dst nxwrde___MTE	ADV	110;Lemma;R;;cat=R;%default
+dst wpaškste___MTE	ADV	110;Lemma;R;;cat=R;%default
+dwpelw___MTE	ADV	110;Lemma;R;;cat=R;%default
+dwstane___MTE	ADV	110;Lemma;R;;cat=R;%default
+dwčndan___MTE	ADV	110;Lemma;R;;cat=R;%default
+dyr___MTE	ADV	110;Lemma;R;;cat=R;%default
+dywane war___MTE	ADV	110;Lemma;R;;cat=R;%default
+dzdane___MTE	ADV	110;Lemma;R;;cat=R;%default
+dzdky___MTE	ADV	110;Lemma;R;;cat=R;%default
+em aknwn___MTE	ADV	110;Lemma;R;;cat=R;%default
+em zman___MTE	ADV	110;Lemma;R;;cat=R;%default
+em čnan___MTE	ADV	110;Lemma;R;;cat=R;%default
+eman gwne___MTE	ADV	110;Lemma;R;;cat=R;%default
+eman ja___MTE	ADV	110;Lemma;R;;cat=R;%default
+eman ţwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+emyn___MTE	ADV	110;Lemma;R;;cat=R;%default
+emyn ţwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+emyn ţwry___MTE	ADV	110;Lemma;R;;cat=R;%default
+emyše___MTE	ADV	110;Lemma;R;;cat=R;%default
+emzman___MTE	ADV	110;Lemma;R;;cat=R;%default
+enwz___MTE	ADV	110;Lemma;R;;cat=R;%default
+ery___MTE	ADV	110;Lemma;R;;cat=R;%default
+erče___MTE	ADV	110;Lemma;R;;cat=R;%default
+erčnd___MTE	ADV	110;Lemma;R;;cat=R;%default
+erŕdr___MTE	ADV	110;Lemma;R;;cat=R;%default
+eyjan zde___MTE	ADV	110;Lemma;R;;cat=R;%default
+eyč gae___MTE	ADV	110;Lemma;R;;cat=R;%default
+eyč wŕt___MTE	ADV	110;Lemma;R;;cat=R;%default
+eyčgae___MTE	ADV	110;Lemma;R;;cat=R;%default
+eyčwŕt___MTE	ADV	110;Lemma;R;;cat=R;%default
+eŕ eŕ knan___MTE	ADV	110;Lemma;R;;cat=R;%default
+fwŕ al'ade___MTE	ADV	110;Lemma;R;;cat=R;%default
+fŕţ___MTE	ADV	110;Lemma;R;;cat=R;%default
+gae be gae___MTE	ADV	110;Lemma;R;;cat=R;%default
+grwe grwe___MTE	ADV	110;Lemma;R;;cat=R;%default
+gwya___MTE	ADV	110;Lemma;R;;cat=R;%default
+gwyy___MTE	ADV	110;Lemma;R;;cat=R;%default
+gđšte az ayn___MTE	ADV	110;Lemma;R;;cat=R;%default
+gšadgšad___MTE	ADV	110;Lemma;R;;cat=R;%default
+jda___MTE	ADV	110;Lemma;R;;cat=R;%default
+jdagane___MTE	ADV	110;Lemma;R;;cat=R;%default
+jst wxyzknan___MTE	ADV	110;Lemma;R;;cat=R;%default
+jswrane___MTE	ADV	110;Lemma;R;;cat=R;%default
+kabws war___MTE	ADV	110;Lemma;R;;cat=R;%default
+kaml___MTE	ADV	110;Lemma;R;;cat=R;%default
+kla˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+km km___MTE	ADV	110;Lemma;R;;cat=R;%default
+km wbyš___MTE	ADV	110;Lemma;R;;cat=R;%default
+kmabyš___MTE	ADV	110;Lemma;R;;cat=R;%default
+kmakan___MTE	ADV	110;Lemma;R;;cat=R;%default
+knd___MTE	ADV	110;Lemma;R;;cat=R;%default
+knwn___MTE	ADV	110;Lemma;R;;cat=R;%default
+kwtae___MTE	ADV	110;Lemma;R;;cat=R;%default
+ky___MTE	ADV	110;Lemma;R;;cat=R;%default
+kšan kšan___MTE	ADV	110;Lemma;R;;cat=R;%default
+laaŕl___MTE	ADV	110;Lemma;R;;cat=R;%default
+lajr'e___MTE	ADV	110;Lemma;R;;cat=R;%default
+lajrm___MTE	ADV	110;Lemma;R;;cat=R;%default
+lazm___MTE	ADV	110;Lemma;R;;cat=R;%default
+lbxndznan___MTE	ADV	110;Lemma;R;;cat=R;%default
+lng lngan___MTE	ADV	110;Lemma;R;;cat=R;%default
+lx lx knan___MTE	ADV	110;Lemma;R;;cat=R;%default
+m'mwla˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+mbada___MTE	ADV	110;Lemma;R;;cat=R;%default
+mdam___MTE	ADV	110;Lemma;R;;cat=R;%default
+mjrwħ___MTE	ADV	110;Lemma;R;;cat=R;%default
+mltmsane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mntẓr___MTE	ADV	110;Lemma;R;;cat=R;%default
+mnţŕy___MTE	ADV	110;Lemma;R;;cat=R;%default
+mstŕym___MTE	ADV	110;Lemma;R;;cat=R;%default
+mtfkrane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mtwaź'ane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mtħda˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+mwzwn___MTE	ADV	110;Lemma;R;;cat=R;%default
+mwđyane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mxfyane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mxşwşa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+máywsane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mçla˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+múçr___MTE	ADV	110;Lemma;R;;cat=R;%default
+mħfwẓ___MTE	ADV	110;Lemma;R;;cat=R;%default
+mħkm___MTE	ADV	110;Lemma;R;;cat=R;%default
+mħtaţane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mšt mšt___MTE	ADV	110;Lemma;R;;cat=R;%default
+mštaŕane___MTE	ADV	110;Lemma;R;;cat=R;%default
+mţm´na˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+n're znan___MTE	ADV	110;Lemma;R;;cat=R;%default
+nadyde___MTE	ADV	110;Lemma;R;;cat=R;%default
+nagean___MTE	ADV	110;Lemma;R;;cat=R;%default
+nageany___MTE	ADV	110;Lemma;R;;cat=R;%default
+naxwaste___MTE	ADV	110;Lemma;R;;cat=R;%default
+naxwdāgae___MTE	ADV	110;Lemma;R;;cat=R;%default
+naāgaeane___MTE	ADV	110;Lemma;R;;cat=R;%default
+naŕş___MTE	ADV	110;Lemma;R;;cat=R;%default
+našnyde___MTE	ADV	110;Lemma;R;;cat=R;%default
+našyane___MTE	ADV	110;Lemma;R;;cat=R;%default
+ne čndan___MTE	ADV	110;Lemma;R;;cat=R;%default
+nefte___MTE	ADV	110;Lemma;R;;cat=R;%default
+nw___MTE	ADV	110;Lemma;R;;cat=R;%default
+nxst___MTE	ADV	110;Lemma;R;;cat=R;%default
+nyme kare___MTE	ADV	110;Lemma;R;;cat=R;%default
+nŕ nŕ knan___MTE	ADV	110;Lemma;R;;cat=R;%default
+pnean___MTE	ADV	110;Lemma;R;;cat=R;%default
+ps___MTE	ADV	110;Lemma;R;;cat=R;%default
+pyrwzmndane___MTE	ADV	110;Lemma;R;;cat=R;%default
+pyšapyš___MTE	ADV	110;Lemma;R;;cat=R;%default
+pšt sr___MTE	ADV	110;Lemma;R;;cat=R;%default
+qrqrknan___MTE	ADV	110;Lemma;R;;cat=R;%default
+qryzy___MTE	ADV	110;Lemma;R;;cat=R;%default
+qyrmstŕym___MTE	ADV	110;Lemma;R;;cat=R;%default
+rast___MTE	ADV	110;Lemma;R;;cat=R;%default
+raħt___MTE	ADV	110;Lemma;R;;cat=R;%default
+rk___MTE	ADV	110;Lemma;R;;cat=R;%default
+rsmy___MTE	ADV	110;Lemma;R;;cat=R;%default
+rwħa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+rwšn___MTE	ADV	110;Lemma;R;;cat=R;%default
+sade___MTE	ADV	110;Lemma;R;;cat=R;%default
+sakt___MTE	ADV	110;Lemma;R;;cat=R;%default
+sps___MTE	ADV	110;Lemma;R;;cat=R;%default
+sranjam___MTE	ADV	110;Lemma;R;;cat=R;%default
+srapa___MTE	ADV	110;Lemma;R;;cat=R;%default
+srasyme___MTE	ADV	110;Lemma;R;;cat=R;%default
+srpa___MTE	ADV	110;Lemma;R;;cat=R;%default
+srsry___MTE	ADV	110;Lemma;R;;cat=R;%default
+srtasr___MTE	ADV	110;Lemma;R;;cat=R;%default
+sxt___MTE	ADV	110;Lemma;R;;cat=R;%default
+tabe ħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+taze___MTE	ADV	110;Lemma;R;;cat=R;%default
+tk wtwk___MTE	ADV	110;Lemma;R;;cat=R;%default
+tlwyħa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+tlwyħy___MTE	ADV	110;Lemma;R;;cat=R;%default
+tmam wŕt___MTE	ADV	110;Lemma;R;;cat=R;%default
+tnd___MTE	ADV	110;Lemma;R;;cat=R;%default
+tndtnd___MTE	ADV	110;Lemma;R;;cat=R;%default
+tng___MTE	ADV	110;Lemma;R;;cat=R;%default
+tŕryba˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+tşadfy___MTE	ADV	110;Lemma;R;;cat=R;%default
+waŕ'a˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+waŕ'y___MTE	ADV	110;Lemma;R;;cat=R;%default
+waźħ___MTE	ADV	110;Lemma;R;;cat=R;%default
+wħšt zde___MTE	ADV	110;Lemma;R;;cat=R;%default
+xarj___MTE	ADV	110;Lemma;R;;cat=R;%default
+xbrdar___MTE	ADV	110;Lemma;R;;cat=R;%default
+xlaşe___MTE	ADV	110;Lemma;R;;cat=R;%default
+xnde knan___MTE	ADV	110;Lemma;R;;cat=R;%default
+xraman___MTE	ADV	110;Lemma;R;;cat=R;%default
+xrdxrd___MTE	ADV	110;Lemma;R;;cat=R;%default
+xwab ālwd___MTE	ADV	110;Lemma;R;;cat=R;%default
+xwb___MTE	ADV	110;Lemma;R;;cat=R;%default
+xwdbe xwd___MTE	ADV	110;Lemma;R;;cat=R;%default
+xwnsrd___MTE	ADV	110;Lemma;R;;cat=R;%default
+xwšbxtane___MTE	ADV	110;Lemma;R;;cat=R;%default
+xyly___MTE	ADV	110;Lemma;R;;cat=R;%default
+xyre___MTE	ADV	110;Lemma;R;;cat=R;%default
+xşwşa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+y'ny___MTE	ADV	110;Lemma;R;;cat=R;%default
+yk bare___MTE	ADV	110;Lemma;R;;cat=R;%default
+yk ja___MTE	ADV	110;Lemma;R;;cat=R;%default
+yk mrtbe___MTE	ADV	110;Lemma;R;;cat=R;%default
+yk ryz___MTE	ADV	110;Lemma;R;;cat=R;%default
+znde___MTE	ADV	110;Lemma;R;;cat=R;%default
+znde znde___MTE	ADV	110;Lemma;R;;cat=R;%default
+zwze kšan___MTE	ADV	110;Lemma;R;;cat=R;%default
+zyad___MTE	ADV	110;Lemma;R;;cat=R;%default
+zyady___MTE	ADV	110;Lemma;R;;cat=R;%default
+zygzag___MTE	ADV	110;Lemma;R;;cat=R;%default
+zyrčšmy___MTE	ADV	110;Lemma;R;;cat=R;%default
+çabt___MTE	ADV	110;Lemma;R;;cat=R;%default
+āeste___MTE	ADV	110;Lemma;R;;cat=R;%default
+āeste āeste___MTE	ADV	110;Lemma;R;;cat=R;%default
+āgaeane___MTE	ADV	110;Lemma;R;;cat=R;%default
+ān wŕt___MTE	ADV	110;Lemma;R;;cat=R;%default
+ān čnan___MTE	ADV	110;Lemma;R;;cat=R;%default
+ān ŕdr___MTE	ADV	110;Lemma;R;;cat=R;%default
+āngae___MTE	ADV	110;Lemma;R;;cat=R;%default
+āxrsr___MTE	ADV	110;Lemma;R;;cat=R;%default
+āya___MTE	ADV	110;Lemma;R;;cat=R;%default
+āzad___MTE	ADV	110;Lemma;R;;cat=R;%default
+āzadane___MTE	ADV	110;Lemma;R;;cat=R;%default
+āškar___MTE	ADV	110;Lemma;R;;cat=R;%default
+āškara___MTE	ADV	110;Lemma;R;;cat=R;%default
+če gwne___MTE	ADV	110;Lemma;R;;cat=R;%default
+če ŕdr___MTE	ADV	110;Lemma;R;;cat=R;%default
+čearčšmy___MTE	ADV	110;Lemma;R;;cat=R;%default
+čra___MTE	ADV	110;Lemma;R;;cat=R;%default
+čsbyde___MTE	ADV	110;Lemma;R;;cat=R;%default
+čŕdr___MTE	ADV	110;Lemma;R;;cat=R;%default
+čţwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+đre đre___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħal___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħala___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħdakçr___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħdaŕl___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħdwda˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħl nšde___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħsaby___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħtma˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħyrt zde___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħŕyŕta˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+ŕbl___MTE	ADV	110;Lemma;R;;cat=R;%default
+ŕbl az___MTE	ADV	110;Lemma;R;;cat=R;%default
+ŕdm znan___MTE	ADV	110;Lemma;R;;cat=R;%default
+ŕţ'a˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+şadŕane___MTE	ADV	110;Lemma;R;;cat=R;%default
+şaf___MTE	ADV	110;Lemma;R;;cat=R;%default
+şbwrane___MTE	ADV	110;Lemma;R;;cat=R;%default
+şryħa˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+šbane___MTE	ADV	110;Lemma;R;;cat=R;%default
+šbe war___MTE	ADV	110;Lemma;R;;cat=R;%default
+šnaknan___MTE	ADV	110;Lemma;R;;cat=R;%default
+ţby'ta˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+źmny___MTE	ADV	110;Lemma;R;;cat=R;%default
+ẓaera˝___MTE	ADV	110;Lemma;R;;cat=R;%default
+dwrtadwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+kf___MTE	ADV	110;Lemma;R;;cat=R;%default
+lay___MTE	ADV	110;Lemma;R;;cat=R;%default
+pšt___MTE	ADV	110;Lemma;R;;cat=R;%default
+tngatng___MTE	ADV	110;Lemma;R;;cat=R;%default
+ħwl wħwš___MTE	ADV	110;Lemma;R;;cat=R;%default
+şrf___MTE	ADV	110;Lemma;R;;cat=R;%default
+bala___MTE	ADV	110;Lemma;R;;cat=R;%default
+bd___MTE	ADV	110;Lemma;R;;cat=R;%default
+dwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+sry'___MTE	ADV	110;Lemma;R;;cat=R;%default
+zwd___MTE	ADV	110;Lemma;R;;cat=R;%default
+gae___MTE	ADV	110;Lemma;R;;cat=R;%default
+gae gae___MTE	ADV	110;Lemma;R;;cat=R;%default
+gegae___MTE	ADV	110;Lemma;R;;cat=R;%default
+če ţwr___MTE	ADV	110;Lemma;R;;cat=R;%default
+wsţ___MTE	ADV	110;Lemma;R;;cat=R;%default
+zyr___MTE	ADV	110;Lemma;R;;cat=R;%default
+şbħ___MTE	ADV	110;Lemma;R;;cat=R;%default
+b'd___MTE	ADV	110;Lemma;R;;cat=R;%default
+b'dazẓer___MTE	ADV	110;Lemma;R;;cat=R;%default
+dygr___MTE	ADV	110;Lemma;R;;cat=R;%default
+mgr___MTE	ADV	110;Lemma;R;;cat=R;%default
+rwz___MTE	ADV	110;Lemma;R;;cat=R;%default
+km___MTE	ADV	110;Lemma;R;;cat=R;%default
+awl___MTE	ADV	110;Lemma;R;;cat=R;%default
+dŕyŕ___MTE	ADV	110;Lemma;R;;cat=R;%default
+nzdyk___MTE	ADV	110;Lemma;R;;cat=R;%default
+sal___MTE	ADV	110;Lemma;R;;cat=R;%default
+wħšyane___MTE	ADV	110;Lemma;R;;cat=R;%default
+āram___MTE	ADV	110;Lemma;R;;cat=R;%default
+šb___MTE	ADV	110;Lemma;R;;cat=R;%default

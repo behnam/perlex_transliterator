@@ -1,0 +1,202 @@
+kdamyk	inv	100;Lemma;NP;;cat=NP;%default	# 1/8=0.12
+ykbar	inv	100;Lemma;NP;;cat=NP;%default	# 8/8=1
+aynkar	inv	100;Lemma;NP;;cat=NP;%default	# 2/2=1
+ayngwne	inv	100;Lemma;NP;;cat=NP;%default	# 1/50=0.02
+aynja	inv	100;Lemma;NP;;cat=NP;%default	# 13/303=0.04
+aynţwr	inv	100;Lemma;NP;;cat=NP;%default	# 1/14=0.07
+drem	inv	100;Lemma;NP;;cat=NP;%default	# 1/16=0.06
+eyčyk	inv	100;Lemma;NP;;cat=NP;%default	# 2/38=0.05
+emyngwne	inv	100;Lemma;NP;;cat=NP;%default	# 1/3=0.33
+emangwne	inv	100;Lemma;NP;;cat=NP;%default	# 6/13=0.46
+emanţwr	inv	100;Lemma;NP;;cat=NP;%default	# 3/6=0.5
+erkdam	inv	100;Lemma;NP;;cat=NP;%default	# 2/5=0.4
+ānks	inv	100;Lemma;NP;;cat=NP;%default	# 1/4=0.25
+ānja	inv	100;Lemma;NP;;cat=NP;%default	# 6/361=0.01
+ānţwr	inv	100;Lemma;NP;;cat=NP;%default	# 1/3=0.33
+ayn ja	inv	100;Lemma;NP;;cat=NP;%default	# 1/14=0.07
+
+teran	N2	100;Lemma;N;;cat=N;%default	#??
+âmryka	N2	100;Lemma;N;;cat=N;%default	#??
+âsya	N2	100;Lemma;N;;cat=N;%default	#??
+pakstan	N2	100;Lemma;N;;cat=N;%default	#??
+afqanstan	N2	100;Lemma;N;;cat=N;%default	#??
+krdstan	N2	100;Lemma;N;;cat=N;%default	#??
+anglstan	N2	100;Lemma;N;;cat=N;%default	#??
+ŕzaŕstan	N2	100;Lemma;N;;cat=N;%default	#??
+xwzstan	N2	100;Lemma;N;;cat=N;%default	#??
+lrstan	N2	100;Lemma;N;;cat=N;%default	#??
+sydny	N2	100;Lemma;N;;cat=N;%default	#??
+axbar	N2	100;Lemma;N;;cat=N;%default	#??
+systan	N2	100;Lemma;N;;cat=N;%default	#??
+aweayw	N2	100;Lemma;N;;cat=N;%default	#??
+âđrbayjan	N2	100;Lemma;N;;cat=N;%default	#??
+lbnan	N2	100;Lemma;N;;cat=N;%default	#??
+'rbstan	N2	100;Lemma;N;;cat=N;%default	#??
+glstan	N2	100;Lemma;N;;cat=N;%default	#??
+lestan	N2	100;Lemma;N;;cat=N;%default	#??
+trkmnstan	N2	100;Lemma;N;;cat=N;%default	#??
+ânkara	N2	100;Lemma;N;;cat=N;%default	#??
+blwčstan	N2	100;Lemma;N;;cat=N;%default	#??
+endwstan	N2	100;Lemma;N;;cat=N;%default	#??
+armnstan	N2	100;Lemma;N;;cat=N;%default	#??
+grjstan	N2	100;Lemma;N;;cat=N;%default	#??
+lndn	N2	100;Lemma;N;;cat=N;%default	#??
+rwsyh	N2	100;Lemma;N;;cat=N;%default	#??
+arwpa	N2	100;Lemma;N;;cat=N;%default	#??
+xrdad	N2	100;Lemma;N;;cat=N;%default	#??
+trkyh	N2	100;Lemma;N;;cat=N;%default	#??
+aşfhan	N2	100;Lemma;N;;cat=N;%default	#??
+mll	N2	100;Lemma;N;;cat=N;%default	#??
+aytalya	N2	100;Lemma;N;;cat=N;%default	#??
+žapn	N2	100;Lemma;N;;cat=N;%default	#??
+'raŕ	N2	100;Lemma;N;;cat=N;%default	#??
+xmyny	N2	100;Lemma;N;;cat=N;%default	#??
+aspanya	N2	100;Lemma;N;;cat=N;%default	#??
+wašngtn	N2	100;Lemma;N;;cat=N;%default	#??
+hašmy	N2	100;Lemma;N;;cat=N;%default	#??
+nywywrk	N2	100;Lemma;N;;cat=N;%default	#??
+mşr	N2	100;Lemma;N;;cat=N;%default	#??
+šyraz	N2	100;Lemma;N;;cat=N;%default	#??
+flsţyn	N2	100;Lemma;N;;cat=N;%default	#??
+tbryz	N2	100;Lemma;N;;cat=N;%default	#??
+xrasan	N2	100;Lemma;N;;cat=N;%default	#??
+ayranyan 	N2	100;Lemma;N;;cat=N;%default	#=ayran?
+dryay xzr	N2	100;Lemma;N;;cat=N;%default	#??
+yzyd	N2	100;Lemma;N;;cat=N;%default	#??
+asraayl	N2	100;Lemma;N;;cat=N;%default	#??
+fars	N2	100;Lemma;N;;cat=N;%default	#??
+parys	N2	100;Lemma;N;;cat=N;%default	#??
+rźa	N2	100;Lemma;N;;cat=N;%default	#??
+gylan	N2	100;Lemma;N;;cat=N;%default	#??
+kwyt	N2	100;Lemma;N;;cat=N;%default	#??
+yzd	N2	100;Lemma;N;;cat=N;%default	#??
+ywnan	N2	100;Lemma;N;;cat=N;%default	#??
+ardbyl	N2	100;Lemma;N;;cat=N;%default	#??
+hmdan	N2	100;Lemma;N;;cat=N;%default	#??
+mazndran	N2	100;Lemma;N;;cat=N;%default	#??
+astralya	N2	100;Lemma;N;;cat=N;%default	#??
+atryš	N2	100;Lemma;N;;cat=N;%default	#??
+klyntwn	N2	100;Lemma;N;;cat=N;%default	#??
+hlnd	N2	100;Lemma;N;;cat=N;%default	#??
+kanada	N2	100;Lemma;N;;cat=N;%default	#??
+abrahym	N2	100;Lemma;N;;cat=N;%default	#??
+jhad	N2	100;Lemma;N;;cat=N;%default	#??
+krmanšah	N2	100;Lemma;N;;cat=N;%default	#??
+mdynh	N2	100;Lemma;N;;cat=N;%default	#??
+xawrmyanh	N2	100;Lemma;N;;cat=N;%default	#??
+rfsnjany	N2	100;Lemma;N;;cat=N;%default	#??
+âyd	N2	100;Lemma;N;;cat=N;%default	#??
+pkn	N2	100;Lemma;N;;cat=N;%default	#??
+mrdad	N2	100;Lemma;N;;cat=N;%default	#??
+brlyn	N2	100;Lemma;N;;cat=N;%default	#??
+ardn	N2	100;Lemma;N;;cat=N;%default	#??
+tyrmah	N2	100;Lemma;N;;cat=N;%default	#??
+mwswy	N2	100;Lemma;N;;cat=N;%default	#??
+smnan	N2	100;Lemma;N;;cat=N;%default	#??
+ašyaa	N2	100;Lemma;N;;cat=N;%default	#??
+ŕzwyn	N2	100;Lemma;N;;cat=N;%default	#??
+asamy	N2	100;Lemma;N;;cat=N;%default	#??
+arwmyh	N2	100;Lemma;N;;cat=N;%default	#??
+šhrywr	N2	100;Lemma;N;;cat=N;%default	#??
+natw	N2	100;Lemma;N;;cat=N;%default	#??
+'rfat	N2	100;Lemma;N;;cat=N;%default	#??
+xrmšhr	N2	100;Lemma;N;;cat=N;%default	#??
+madryd	N2	100;Lemma;N;;cat=N;%default	#??
+blžyk	N2	100;Lemma;N;;cat=N;%default	#??
+bwšhr	N2	100;Lemma;N;;cat=N;%default	#??
+bqdad	N2	100;Lemma;N;;cat=N;%default	#??
+mkh	N2	100;Lemma;N;;cat=N;%default	#??
+znjan	N2	100;Lemma;N;;cat=N;%default	#??
+prtqal	N2	100;Lemma;N;;cat=N;%default	#??
+ayfa	N2	100;Lemma;N;;cat=N;%default	#??
+xrazy	N2	100;Lemma;N;;cat=N;%default	#??
+brzyl	N2	100;Lemma;N;;cat=N;%default	#??
+aydz	N2	100;Lemma;N;;cat=N;%default	#??
+awpk	N2	100;Lemma;N;;cat=N;%default	#??
+twkyw	N2	100;Lemma;N;;cat=N;%default	#??
+darywš	N2	100;Lemma;N;;cat=N;%default	#??
+barak	N2	100;Lemma;N;;cat=N;%default	#??
+anşary	N2	100;Lemma;N;;cat=N;%default	#??	???
+grgan	N2	100;Lemma;N;;cat=N;%default	#??
+amryka	N2	100;Lemma;N;;cat=N;%default	#??
+krj	N2	100;Lemma;N;;cat=N;%default	#??
+aylam	N2	100;Lemma;N;;cat=N;%default	#??
+'lyrźa	N2	100;Lemma;N;;cat=N;%default	#??
+mşţfy	N2	100;Lemma;N;;cat=N;%default	#??
+kašan	N2	100;Lemma;N;;cat=N;%default	#??
+malzy	N2	100;Lemma;N;;cat=N;%default	#??
+pwnd	N2	100;Lemma;N;;cat=N;%default	#??
+kwfh	N2	100;Lemma;N;;cat=N;%default	#??
+mrtźy	N2	100;Lemma;N;;cat=N;%default	#??
+arak	N2	100;Lemma;N;;cat=N;%default	#??
+albrz	N2	100;Lemma;N;;cat=N;%default	#??
+taywan	N2	100;Lemma;N;;cat=N;%default	#??
+taylnd	N2	100;Lemma;N;;cat=N;%default	#??
+ardybhšt	N2	100;Lemma;N;;cat=N;%default	#??
+amarat	N2	100;Lemma;N;;cat=N;%default	#??
+mkzyk	N2	100;Lemma;N;;cat=N;%default	#??
+faţmh	N2	100;Lemma;N;;cat=N;%default	#??
+âdm	N2	100;Lemma;N;;cat=N;%default	#adam
+
+
+ayrany	N2	100;Lemma;N;;cat=N;%default	#??	--> NP ou N?
+flsţyny	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? (palestinian)
+âmrykayy	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+rws	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+asraayly	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+žapny	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+anglysy	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+franswy	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+afqany	N2	100;Lemma;N;;cat=N;%default	#??--> NP ou N? ou Adj?
+
+
+ayrna	N2	100;Lemma;N;;cat=N;%default	# IRNA
+arwpa	N2	100;Lemma;N;;cat=N;%default	# Europe
+xrdad	N2	100;Lemma;N;;cat=N;%default	# Khordad
+mll	N2	100;Lemma;N;;cat=N;%default	# UN
+âsya	N2	100;Lemma;N;;cat=N;%default	# Asia
+tbryz	N2	100;Lemma;N;;cat=N;%default	# Tabriz
+xrasan	N2	100;Lemma;N;;cat=N;%default	# Khorasan
+asraayl	N2	100;Lemma;N;;cat=N;%default	# Israël
+mđakrat	N2	100;Lemma;N;;cat=N;%default	# U.S.
+yzd	N2	100;Lemma;N;;cat=N;%default	# Yazd
+anglstan	N2	100;Lemma;N;;cat=N;%default	# England
+krdstan	N2	100;Lemma;N;;cat=N;%default	# Kurdistan
+xwzstan	N2	100;Lemma;N;;cat=N;%default	# Khuzestan
+mazndran	N2	100;Lemma;N;;cat=N;%default	# Mazandaran
+lrstan	N2	100;Lemma;N;;cat=N;%default	# Lorestan
+xawrmyane	N2	100;Lemma;N;;cat=N;%default	# Middle East
+mrdad	N2	100;Lemma;N;;cat=N;%default	# Persian month Mordad
+smnan	N2	100;Lemma;N;;cat=N;%default	# Semnan
+tyrmae	N2	100;Lemma;N;;cat=N;%default	# July
+ŕzwyn	N2	100;Lemma;N;;cat=N;%default	# Qazvin
+ayfa	N2	100;Lemma;N;;cat=N;%default	# IFA
+'rfat	N2	100;Lemma;N;;cat=N;%default	# Arafat
+natw	N2	100;Lemma;N;;cat=N;%default	# NATO
+taymz	N2	100;Lemma;N;;cat=N;%default	# Times (NP?)
+âsya	N2	100;Lemma;N;;cat=N;%default	# Asia
+âfryŕa	N2	100;Lemma;N;;cat=N;%default	# Africa
+xrazy	N2	100;Lemma;N;;cat=N;%default	# Kharrazi
+krj	N2	100;Lemma;N;;cat=N;%default	# Karaj
+grgan	N2	100;Lemma;N;;cat=N;%default	# Gorgan
+amryka	N2	100;Lemma;N;;cat=N;%default	# America
+blwčstan	N2	100;Lemma;N;;cat=N;%default	# Baluchistan
+sways	N2	100;Lemma;N;;cat=N;%default	# Svays (??)
+kašan	N2	100;Lemma;N;;cat=N;%default	# Kashan
+arak	N2	100;Lemma;N;;cat=N;%default	# Arak
+'laam	N2	100;Lemma;N;;cat=N;%default	# Laam (??)
+pwnd	N2	100;Lemma;N;;cat=N;%default	# Gyahanpvnd (??)
+msawlyn	N2	100;Lemma;N;;cat=N;%default	# Msavlyn (??)
+albrz	N2	100;Lemma;N;;cat=N;%default	# Alborz
+aktbr	N2	100;Lemma;N;;cat=N;%default	# October
+kwalalampwr	N2	100;Lemma;N;;cat=N;%default	# Kuala Lumpur
+m'awye	N2	100;Lemma;N;;cat=N;%default	# Al
+
+
+
+
+
+
+
+
+

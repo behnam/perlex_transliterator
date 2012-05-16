@@ -1,0 +1,37 @@
+kdam	inv	100;Lemma;DET;;cat=DET;%default	# 208/508=0.4
+kdamyn	inv	100;Lemma;DET;;cat=DET;%default	# 4/4=1
+kdwm	inv	100;Lemma;DET;;cat=DET;%default	# 4/4=1
+ygane	inv	100;Lemma;DET;;cat=DET;%default	# 2/39=0.05
+ay=n	inv	100;Lemma;DET;;cat=DET;%default	# 2/2=1
+ayn	inv	100;Lemma;DET;;cat=DET;%default	# 37880/42018=0.9
+ayn_ae	inv	100;Lemma;DET;;cat=DET;%default	# 37880/42018=0.9
+ayngwne	inv	100;Lemma;DET;;cat=DET;%default	# 14/50=0.28
+ayneme	inv	100;Lemma;DET;;cat=DET;%default	# 5/6=0.83
+awn	inv	100;Lemma;DET;;cat=DET;%default	# 23/28=0.82
+beman	inv	100;Lemma;DET;;cat=DET;%default	# 2/5=0.4
+b'źy	inv	100;Lemma;DET;;cat=DET;%default	# 2/5=0.4
+
+dygr	inv	100;Lemma;DET;;cat=DET;%default	# 658/4195=0.15
+dgr	inv	100;Lemma;DET;;cat=DET;%default	# 2/18=0.11
+flan	inv	100;Lemma;DET;;cat=DET;%default	# 70/79=0.88
+eyčgwne	inv	100;Lemma;DET;;cat=DET;%default	# 8/8=1
+emwn	inv	100;Lemma;DET;;cat=DET;%default	# 3/3=1
+m'dwd	inv	100;Lemma;DET;;cat=DET;%default	# 2/29=0.06
+tk	inv	100;Lemma;DET;;cat=DET;%default	# 3/27=0.11
+tnea	inv	100;Lemma;DET;;cat=DET;%default	# 53/1308=0.04
+ān	inv	100;Lemma;DET;;cat=DET;%default	# 2994/14386=0.2
+č==nd	inv	100;Lemma;DET;;cat=DET;%default	# 1/1=1
+čy	inv	100;Lemma;DET;;cat=DET;%default	# 1/58=0.01
+če	inv	100;Lemma;DET;;cat=DET;%default	# 933/1970=0.47
+ayn gwne	inv	100;Lemma;DET;;cat=DET;%default	# 1/18=0.05
+
+eman	inv	100;Lemma;PRO;;cat=PRO;%default	# 2773	même	Déterminant / Pronom	# 1192/1256=0.94
+emyn	inv	100;Lemma;PRO;;cat=PRO;%default	# 4411	cela (même)	Pronom / Déterminant	# 1766/1855=0.95
+čnan	inv	100;Lemma;PRO;;cat=PRO;%default	# 8/187=0.04
+čnyn	inv	100;Lemma;PRO;;cat=PRO;%default	# 
+ānčnan	inv	100;Lemma;PRO;;cat=PRO;%default	# 
+ānčnyn	inv	100;Lemma;PRO;;cat=PRO;%default	# 
+emčnan	inv	100;Lemma;PRO;;cat=PRO;%default	# 
+emčnyn	inv	100;Lemma;PRO;;cat=PRO;%default	# fam emčyn
+čndyn	inv	100;Lemma;pri;;cat=pri;%default	# 4027	combien	Pronom interrogatif /Déterminant	# 23/261=0.08
+čndan	inv	100;Lemma;pri;;cat=pri;%default	# combien
