@@ -67,14 +67,14 @@ def transliterate(word):
 
 def get_word(line):
     tokens1 = line.strip().split('\t')
-    tokens2 = tokens1[0].split('__')
+    tokens2 = tokens1[0].split('___')
     my_word = tokens2[0]
     return my_word, [tokens2, tokens1]
 
 def set_word(my_word, rest):
     tokens2, tokens1 = rest
     tokens2[0] = my_word
-    tokens1[0] = '__'.join(tokens2)
+    tokens1[0] = '___'.join(tokens2)
     my_line    = '\t'.join(tokens1)
     return my_line
 
@@ -86,16 +86,16 @@ def main(fin, fout):
         fout.write(my_line + '\n')
 
 def usage(app_name):
-    print "usage: %s <input_file> <output_file>" % app_name
+    print "usage: %s <input_file> [<output_file>]" % app_name
 
 if __name__=='__main__':
     import sys
     import codecs
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 2 or len(sys.argv) > 3:
         usage(sys.argv[0])
         sys.exit(1)
 
     f1 = codecs.open(sys.argv[1], mode='r', encoding='utf-8')
-    f2 = codecs.open(sys.argv[2], mode='w', encoding='utf-8')
+    f2 = codecs.open(sys.argv[2], mode='w', encoding='utf-8') if len(sys.argv) > 2 else codecs.getwriter('utf-8')(sys.stdout)
     main(f1, f2)
 
